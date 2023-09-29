@@ -1,19 +1,21 @@
-# Registro de Laboratorio - [Fecha] 📆
+# Registro de Laboratorio - Dinámica Molecular - [Fecha] 📆
 
 ## Información General
 - **Fecha:** [Fecha]
 - **Investigador:** [Tomás Delorenzi] 👨‍🔬
-- **Experimento:** [Berenil] 🧪
-- **Objetivo:** [Descripción del objetivo del día] 🎯
+- **Molécula:** [Berenil] 🧪
+- **Objetivo del Día:** [Descripción del objetivo del día] 🎯
 
 ## Resumen del Día 📝
 [Resumen breve de lo que se realizó durante el día en el laboratorio.]
 
 ## Modificaciones y Avances Realizados 🛠️
-[Descripción de las modificaciones y avances realizados en comparación con el día anterior. Incluye detalles sobre los cambios realizados, los resultados obtenidos y cómo estos afectan tu proyecto.]
+[Describe las modificaciones y avances realizados en comparación con el día anterior. Incluye detalles sobre los cambios realizados, los resultados obtenidos y cómo estos afectan tu proyecto.]
 
 ## Objetivos Cumplidos 🏆
-[Enumera los objetivos que lograste cumplir durante el día.]
+- [x] Objetivo 1
+- [x] Objetivo 2
+- [ ] Objetivo 3 (si no se completó)
 
 ## Objetivos para el Próximo Día 🎯
 [Establece los objetivos que planeas alcanzar en el próximo día de trabajo.]
