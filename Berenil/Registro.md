@@ -1,6 +1,6 @@
 # Registro de Laboratorio - [Fecha] 📆
 
-## Información General ℹ️
+## Información General
 - **Fecha:** [Fecha]
 - **Investigador:** [Tomás Delorenzi] 👨‍🔬
 - **Experimento:** [Berenil] 🧪
