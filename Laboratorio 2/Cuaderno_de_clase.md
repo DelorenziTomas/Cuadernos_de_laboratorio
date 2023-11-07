@@ -1,7 +1,7 @@
 # Cuaderno de Clase - Laboratorio II 📚
 
 ## Materia: Laboratorio II
-## Profesor: [Nombre del Profesor] 👨‍🏫
+## Profesor: Luis Pugnaloni 👨‍🏫
 ## Fecha: [Fecha de la Clase] 📆
 
 ### Tema de la Clase: [Tema Principal de la Clase] 📝
