@@ -25,7 +25,7 @@
 ## Procedimiento 📋
 
 1. **Preparación de la Solución de Dicromato de Potasio**
-   - Concentración: $0.025 \, \text{g}/0.1 \ \text{l}$
+   - Concentración: $0.025 \ \text{g}/0.1 \ \text{l}$
    - Pesamos el papel aluminio: $m=0.2286 \ \text{g}$
    - Se requieren: $M=0.250 \ \text{g}$ de dicromato de potasio
    - Masa total: $M+m=0.4786 \ \text{g}$
@@ -44,6 +44,7 @@
      $\Delta V_{\text{agua}}=492 \ \text{mV}$
    - Ahora colocamos la solución del paso 2 en otra celda y medimos la diferencia de potencial: 
      $\Delta V_{\text{dicromatodepotasio}}=180 \ \text{mV}$
+   - $T=\frac{{\Delta V_{\text{dicromatodepotasio}}}}{{\Delta V_{\text{agua}}}}=0.3659$
 
 
 
