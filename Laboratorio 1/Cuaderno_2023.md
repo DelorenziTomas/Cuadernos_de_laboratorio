@@ -54,7 +54,7 @@ Dato de importancia:
 
 ## 📊 Tabla de Medidas
 
-| $\lambda  \ \text{(nm)}$ | $\Delta V_{\text{aguaMiliQ} \ \text{(mV)}$ | $\Delta V_{\text{DicromatoDePotasio} \ \text{(mV)}$ | T | A |
+| $\lambda  \ \text{(nm)}$ | $\Delta V_{\text{aguaMiliQ} \text{(mV)}$ | $\Delta V_{\text{DicromatoDePotasio}  \text{(mV)}$ | T | A |
 |------------|------------|------------|------------|------------|
 | 330 | 70.4 | 34 | - | 0.3161 |
 | 350 | 248 | 78.4 | - | 0.5001 |
