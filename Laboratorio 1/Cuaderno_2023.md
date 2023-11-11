@@ -49,6 +49,7 @@
 
 
 
+
 ## Resumen del Día 📝
 [Resumen breve de lo que se realizó durante el día en el laboratorio, incluyendo las mediciones de dicroismo, espectros de absorción, birrefringencia y otros experimentos.]
 
