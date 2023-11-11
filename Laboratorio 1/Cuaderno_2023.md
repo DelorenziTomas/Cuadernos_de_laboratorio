@@ -52,6 +52,28 @@ Dato de importancia:
   - Alimentacion del fotomultiplicador: $300 \text{nm}$
 
 
+## 📊 Tabla de Medidas
+
+| $\lambda  \ \text{(nm)}$ | $\Delta V_{\text{agua_Mili_Q} \text{(mV)}$ | $\Delta V_{\text{dicromato_de_potasio} \text{(mV)}$ | T | A |
+|------------|------------|------------|------------|------------|
+| 330 | 70.4 | 34 | - | 0.3161 |
+| 350 | 248 | 78.4 | - | 0.5001 |
+| 370 | 448 | 166 | - | 0.4312 |
+| 390 | 728 | 404 | - | 0.2558 |
+| 410 | 984 | 808 | - | 0.0856 |
+| 430 | 1170 | 1010 | - | 0.0639 |
+| 450 | 1440 | 1300 | - | 0.0444 |
+| 470 | 1640 | 1520 | - | 0.0330 |
+| 490 | 1980 | 1960 | - | - |
+| 510 | 2560 | 2620 | - | - |
+| 430 | 2600 | 2840 | - | - |
+| 350 | 1260 | 1340 | - | - |
+| 410 | 260 | 270 | - | - |
+| 470 | 1110 | 1120 | - | - |
+| 370 | 1880 | 1900 | - | - |
+
+
+
 ## Resumen del Día 📝
 [Resumen breve de lo que se realizó durante el día en el laboratorio, incluyendo las mediciones de dicroismo, espectros de absorción, birrefringencia y otros experimentos.]
 
