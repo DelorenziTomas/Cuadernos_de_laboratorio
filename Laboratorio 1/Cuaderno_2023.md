@@ -54,7 +54,7 @@ Dato de importancia:
 
 ## 📊 Tabla de Medidas
 
-| $\lambda  \ \text{(nm)}$ | $\Delta V_{\text{agua_Mili_Q} \text{(mV)}$ | $\Delta V_{\text{dicromato_de_potasio} \text{(mV)}$ | T | A |
+| $\lambda  \ \text{(nm)}$ | $\Delta V_{\text{agua_Mili_Q} \ \text{(mV)}$ | $\Delta V_{\text{dicromato_de_potasio} \ \text{(mV)}$ | T | A |
 |------------|------------|------------|------------|------------|
 | 330 | 70.4 | 34 | - | 0.3161 |
 | 350 | 248 | 78.4 | - | 0.5001 |
