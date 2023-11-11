@@ -45,8 +45,8 @@
    - Ahora colocamos la solución del paso 2 en otra celda y medimos la diferencia de potencial: 
      $\Delta V_{\text{dicromatodepotasio}}=180 \ \text{mV}$
    - $T=\frac{{\Delta V_{\text{dicromatodepotasio}}}}{{\Delta V_{\text{agua}}}}=0.3659$
-
-
+  
+[Sabemos que la absorbancia viene dada por $A = \log\left(\frac{1}{T}\right)$]
 
 
 
