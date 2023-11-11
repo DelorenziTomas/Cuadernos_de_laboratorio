@@ -46,7 +46,7 @@
      $\Delta V_{\text{dicromatodepotasio}}=180 \ \text{mV}$
    - $T=\frac{{\Delta V_{\text{dicromatodepotasio}}}}{{\Delta V_{\text{agua}}}}=0.3659$
   
-[Sabemos que la absorbancia viene dada por $A = \log\left(\frac{1}{T}\right)$]
+Sabemos que la absorbancia viene dada por $A = \log\left(\frac{1}{T}\right)=0,4367$ , a unos $\lambda = 370 \ \text{nm}$
 
 
 
