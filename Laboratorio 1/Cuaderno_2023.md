@@ -43,7 +43,7 @@
    - Colocamos agua Mili-Q en la celda (cubeta de vidrio) del espectrofotómetro 
      \(\Delta V_{\text{agua}}=492 \, \text{mV}\)
    - Ahora colocamos la solución del paso 2 en otra celda y medimos la diferencia de potencial: 
-     \(\Delta V_{\text{dicromatodepotasio}}=180 \, \text{mV}\)
+     $\(\Delta V_{\text{dicromatodepotasio}}=180 \, \text{mV}\)$
 
 
 
