@@ -48,7 +48,8 @@
   
 Sabemos que la absorbancia viene dada por $A = \log\left(\frac{1}{T}\right)=0,4367$ , a unos $\lambda = 370 \ \text{nm}$
 
-
+Dato de importancia:
+  - Alimentacion del fotomultiplicador: $300 \text{nm}$
 
 
 ## Resumen del Día 📝
