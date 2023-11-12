@@ -238,13 +238,13 @@ Dato de importancia:
 
 
 ## Objetivos Cumplidos 🏆
-- [x] Armar la solucion de dicromato de potasio
-- [x] Medir la absorcion
-- [x] Hacer las mediciones a diferentes longitudes de onda
+- [x] Armar las disoluciones de dicromato de potasio
+- [x] Encontrar las cubetas gemelas (Comentario del 11/11/2023: hay que volverlo a hacer)
+- [ ] Hacer las mediciones a diferentes longitudes de onda de cada muestra
 
 
 ## Objetivos para la proxima semana 🎯
-Continuar con la solucion de dicromato de potasio.
+Verificar la Ley de Malus. Midiendo la diferencia de potencial observada en el osciloscopio
 
 ---
 
