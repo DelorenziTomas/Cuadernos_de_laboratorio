@@ -124,7 +124,7 @@ Dato de importancia:
 
 ### $M_1 \text{1 en 25}$
 
-| $\lambda  \ \text{(nm)}$ | $I_0  \ \text{(nm)}$ | $I_f  \ \text{(nm)}$ | $A = \log\left(\frac{I_0}{I_f}\right) |
+| $\lambda  \ \text{(nm)}$ | $I_0  \ \text{(nm)}$ | $I_f  \ \text{(nm)}$ | $A = \log\left(\frac{I_0}{I_f}\right)$ |
 |------------|------------|------------|------------|
 | 370 | - | - | - |
 | 380 | - | - | - |
@@ -143,7 +143,7 @@ Dato de importancia:
 
 ### $M_2 \text{2 en 25}$
 
-| $\lambda  \ \text{(nm)}$ | $I_0  \ \text{(nm)}$ | $I_f  \ \text{(nm)}$ | $A = \log\left(\frac{I_0}{I_f}\right) |
+| $\lambda  \ \text{(nm)}$ | $I_0  \ \text{(nm)}$ | $I_f  \ \text{(nm)}$ | $A = \log\left(\frac{I_0}{I_f}\right)$ |
 |------------|------------|------------|------------|
 | 370 | - | - | - |
 | 380 | - | - | - |
@@ -162,7 +162,7 @@ Dato de importancia:
 
 ### $M_3 \text{3 en 25}$
 
-| $\lambda  \ \text{(nm)}$ | $I_0  \ \text{(nm)}$ | $I_f  \ \text{(nm)}$ | $A = \log\left(\frac{I_0}{I_f}\right) |
+| $\lambda  \ \text{(nm)}$ | $I_0  \ \text{(nm)}$ | $I_f  \ \text{(nm)}$ | $A = \log\left(\frac{I_0}{I_f}\right)$ |
 |------------|------------|------------|------------|
 | 370 | - | - | - |
 | 380 | - | - | - |
@@ -181,7 +181,7 @@ Dato de importancia:
 
 ### $M_4 \text{4 en 25}$
 
-| $\lambda  \ \text{(nm)}$ | $I_0  \ \text{(nm)}$ | $I_f  \ \text{(nm)}$ | $A = \log\left(\frac{I_0}{I_f}\right) |
+| $\lambda  \ \text{(nm)}$ | $I_0  \ \text{(nm)}$ | $I_f  \ \text{(nm)}$ | $A = \log\left(\frac{I_0}{I_f}\right)$ |
 |------------|------------|------------|------------|
 | 370 | - | - | - |
 | 380 | - | - | - |
@@ -200,7 +200,7 @@ Dato de importancia:
 
 ### $M_5 \text{5 en 25}$
 
-| $\lambda  \ \text{(nm)}$ | $I_0  \ \text{(nm)}$ | $I_f  \ \text{(nm)}$ | $A = \log\left(\frac{I_0}{I_f}\right) |
+| $\lambda  \ \text{(nm)}$ | $I_0  \ \text{(nm)}$ | $I_f  \ \text{(nm)}$ | $A = \log\left(\frac{I_0}{I_f}\right)$ |
 |------------|------------|------------|------------|
 | 370 | - | - | - |
 | 380 | - | - | - |
@@ -219,7 +219,7 @@ Dato de importancia:
 
 ### $M_6 \text{7 en 25}$
 
-| $\lambda  \ \text{(nm)}$ | $I_0  \ \text{(nm)}$ | $I_f  \ \text{(nm)}$ | $A = \log\left(\frac{I_0}{I_f}\right) |
+| $\lambda  \ \text{(nm)}$ | $I_0  \ \text{(nm)}$ | $I_f  \ \text{(nm)}$ | $A = \log\left(\frac{I_0}{I_f}\right)$ |
 |------------|------------|------------|------------|
 | 370 | - | - | - |
 | 380 | - | - | - |
