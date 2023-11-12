@@ -111,7 +111,15 @@ Continuar con la solucion de dicromato de potasio.
 Dato de importancia:
   - Antes de realizar las mediciones buscamos dos cubetas que absorban lo mismo.
 
-
+### Coeficiente de extincion:
+  -  Cubetas (usamos $I_5$ y $I_4$):
+      - [ ] $I_1= 196mV$ 
+      - [ ] $I_2= 186mV$
+      - [ ] $I_3= 154mV$
+      - [x] $I_4= 200mV$
+      - [x] $I_5= 200mV$
+      - [ ] $I_6= 194mV$
+   
 ## 📊 Tabla de Medidas
 
 | $\lambda  \ \text{(nm)}$ | $\Delta V_{\text{aguaMiliQ} \text{(mV)}$ | $\Delta V_{\text{DicromatoDePotasio}  \text{(mV)}$ | T | A |
