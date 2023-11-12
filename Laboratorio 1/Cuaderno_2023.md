@@ -102,10 +102,14 @@ Continuar con la solucion de dicromato de potasio.
   - Tomamos la solucion Stock de concentracion $C = \frac{0.025 \ \text{g}}{0.1 \ \text{l}}$
   -  Preparamos soluciones con menor conccentracion
       - [x] $M_1 = \left(\frac{1 \ \text{ml de stock}}{25 \ \text{ml total}}\right) \times 0.00085$
-      - [x] Medir la absorcion
-      - [x] Hacer las mediciones a diferentes longitudes de onda
+      - [x] $M_2 = \left(\frac{2 \ \text{ml de stock}}{25 \ \text{ml total}}\right) \times 0.00085$
+      - [x] $M_3 = \left(\frac{3 \ \text{ml de stock}}{25 \ \text{ml total}}\right) \times 0.00085$
+      - [x] $M_4 = \left(\frac{4 \ \text{ml de stock}}{25 \ \text{ml total}}\right) \times 0.00085$
+      - [x] $M_5 = \left(\frac{5 \ \text{ml de stock}}{25 \ \text{ml total}}\right) \times 0.00085$
+      - [x] $M_6 = \left(\frac{7 \ \text{ml de stock}}{25 \ \text{ml total}}\right) \times 0.00085$
+            
 Dato de importancia:
-  - Alimentacion del fotomultiplicador: $300 \text{nm}$
+  - Antes de realizar las mediciones buscamos dos cubetas que absorban lo mismo.
 
 
 ## 📊 Tabla de Medidas
