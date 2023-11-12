@@ -249,3 +249,163 @@ Verificar la Ley de Malus. Midiendo la diferencia de potencial observada en el o
 ---
 
 **Firma del Investigador:** Delorenzi, Tomás  **Fecha:** 11-11-2023 (transcribiendo)🖋️
+
+
+## Espectrofotometría - Solución de Dicromato de Potasio (continuacion) - 05/07/2023
+- **Fecha:** Miércoles 07 de Julio de 2023 
+- **Investigador:** Tomás Delorenzi 👨‍🔬
+- **Equipos Utilizados:** 🧲
+  - Celda de Kerr
+  - Cubeta de cuarzo
+
+## Procedimiento 📋
+
+Definicion:
+  - $\alpha$: es la diferencia angular entre el analizador y el polarizador
+
+
+- $I_0$
+
+| $\alpha$ | $\Delta V \ \text{mV}$ |
+|-----------|-----------|
+| 0°    | -    |
+| 10°    | -    |
+| 20°    | -    |
+| 30°    | -    |
+| 40°    | -    |
+| 50°    | -    |
+| 60°    | -    |
+| 70°    | -    |
+| 75°    | -    |
+| 80°   | -   |
+| 85°   | -   |
+
+- $I_1$
+
+| $\alpha$ | $\Delta V \ \text{mV}$ |
+|-----------|-----------|
+| 0°    | $274 \pm 5$    |
+| 10°    | $266 \pm 4$    |
+| 20°    | $242 \pm 5$    |
+| 30°    | $214 \pm 5$    |
+| 40°    | $170 \pm 4$    |
+| 50°    | $122 \pm 2$    |
+| 60°    | $73.6 \pm 3$    |
+| 70°    | $23.6 \pm 2$    |
+| 75°    | $18.8 \pm 2$    |
+| 80°   | $9.2 \pm 2.2$   |
+| 85°   | (mucho error)   |
+
+- $I_2$
+
+| $\alpha$ | $\Delta V \ \text{mV}$ |
+|-----------|-----------|
+| 0°    | -    |
+| 10°    | -    |
+| 20°    | -    |
+| 30°    | -    |
+| 40°    | -    |
+| 50°    | -    |
+| 60°    | -    |
+| 70°    | -    |
+| 75°    | -    |
+| 80°   | -   |
+| 85°   | -   |
+
+- $I_3$
+
+| $\alpha$ | $\Delta V \ \text{mV}$ |
+|-----------|-----------|
+| 0°    | -    |
+| 10°    | -    |
+| 20°    | -    |
+| 30°    | -    |
+| 40°    | -    |
+| 50°    | -    |
+| 60°    | -    |
+| 70°    | -    |
+| 75°    | -    |
+| 80°   | -   |
+| 85°   | -   |
+
+- $I_4$
+
+| $\alpha$ | $\Delta V \ \text{mV}$ |
+|-----------|-----------|
+| 0°    | -    |
+| 10°    | -    |
+| 20°    | -    |
+| 30°    | -    |
+| 40°    | -    |
+| 50°    | -    |
+| 60°    | -    |
+| 70°    | -    |
+| 75°    | -    |
+| 80°   | -   |
+| 85°   | -   |
+
+- $I_5$
+
+| $\alpha$ | $\Delta V \ \text{mV}$ |
+|-----------|-----------|
+| 0°    | -    |
+| 10°    | -    |
+| 20°    | -    |
+| 30°    | -    |
+| 40°    | -    |
+| 50°    | -    |
+| 60°    | -    |
+| 70°    | -    |
+| 75°    | -    |
+| 80°   | -   |
+| 85°   | -   |
+
+- $I_6$
+
+| $\alpha$ | $\Delta V \ \text{mV}$ |
+|-----------|-----------|
+| 0°    | -    |
+| 10°    | -    |
+| 20°    | -    |
+| 30°    | -    |
+| 40°    | -    |
+| 50°    | -    |
+| 60°    | -    |
+| 70°    | -    |
+| 75°    | -    |
+| 80°   | -   |
+| 85°   | -   |
+
+- $I_7$
+
+| $\alpha$ | $\Delta V \ \text{mV}$ |
+|-----------|-----------|
+| 0°    | -    |
+| 10°    | -    |
+| 20°    | -    |
+| 30°    | -    |
+| 40°    | -    |
+| 50°    | -    |
+| 60°    | -    |
+| 70°    | -    |
+| 75°    | -    |
+| 80°   | -   |
+| 85°   | -   |
+
+
+
+
+
+## Objetivos Cumplidos 🏆
+- [x] Armar las disoluciones de dicromato de potasio
+- [x] Encontrar las cubetas gemelas (Comentario del 11/11/2023: hay que volverlo a hacer)
+- [ ] Hacer las mediciones a diferentes longitudes de onda de cada muestra
+
+
+## Objetivos para la proxima semana 🎯
+Verificar la Ley de Malus. Midiendo la diferencia de potencial observada en el osciloscopio
+
+---
+
+**Firma del Investigador:** Delorenzi, Tomás  **Fecha:** 11-11-2023 (transcribiendo)🖋️
+
