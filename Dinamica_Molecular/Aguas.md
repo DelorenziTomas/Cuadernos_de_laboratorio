@@ -1,6 +1,10 @@
 # Registro de Laboratorio - Dinámica Molecular - [10/05/2024] 📆
 
 ## Aguas con iones alcalinoterreos
+___
+
+## Viernes, 10/05/2024
+___
 
 ### Información General
 - **Fecha:** Viernes, 10/05/2024 📆
