@@ -45,6 +45,8 @@ Hoy fueron los inicios de un estudio que vamos a tratar de llevar a la 109RAFA.
 
 ### Recursos 📚
 Se adjunta una imagen de lo que fue el día.
+![WhatsApp Image 2024-05-10 at 16 12 56](https://github.com/DelorenziTomas/Cuadernos_de_laboratorio/assets/134660680/24de681d-5808-45a1-8fa4-e0d3ee970012)
+
 
 ### Notas Adicionales 🗒️
 Nada que agregar.
