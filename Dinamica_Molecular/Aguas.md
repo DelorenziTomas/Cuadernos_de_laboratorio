@@ -52,3 +52,10 @@ Nada que agregar.
 **Firma del Investigador:** Delorenzi, Tomás   **Redaccion:** [12/05/2024] 🖋️
 
 ***
+
+### Información General
+- **Fecha:** Viernes, 12/05/2024 📆
+- **Investigador:** Tomás Delorenzi 👨‍🔬
+- **Molécula:** Agua SPC/E 🧪
+- **Objetivo del Día:** Establecer el rumbo de la investigacion. 🎯
+
