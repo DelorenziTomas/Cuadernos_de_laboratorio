@@ -56,3 +56,21 @@ Nada que agregar.
 **Firma del Investigador:** Delorenzi, Tomás   **Redacción:** [12/05/2024] 🖋️
 
 ---
+
+---
+
+## Lunes, 13/05/2024 📆
+
+---
+
+### Información General
+- **Fecha:** Lunes, 13/05/2024 📆
+- **Investigador:** Tomás Delorenzi 👨‍🔬
+- **Molécula:** Agua SPC/E 🧪
+- **Objetivo del Día:** Buscar informacion sobre estos iones. 🎯
+
+### Informacion obtenida 📝
+
+- **Que es un ion alcalinoterreo?** Un ion alcalinotérreo es un ion con una carga positiva de +2 que pertenece al grupo 2 de la tabla periódica de los elementos. Los elementos de este grupo son berilio (Be), magnesio (Mg), calcio (Ca), estroncio (Sr), bario (Ba) y radio (Ra). Estos elementos tienen dos electrones en su capa de valencia y tienden a formar iones con una configuración electrónica similar a la de los gases nobles más cercanos en la tabla periódica, perdiendo esos dos electrones para alcanzar una configuración estable. Los compuestos que contienen estos iones a menudo tienen propiedades similares y se pueden encontrar en minerales y en la estructura de muchos organismos vivos. 
+
+https://es.wikipedia.org/wiki/Alcalinot%C3%A9rreos#:~:text=Los%20metales%20alcalinot%C3%A9rreos%20son%20un,tiempo%20de%20vida%20media%20corto.
