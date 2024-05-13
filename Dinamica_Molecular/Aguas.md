@@ -110,7 +110,9 @@ Se adjunta una imagen de la topologia del Berenil en solucion acuosa con una con
 ![Captura de pantalla 2024-05-13 105214](https://github.com/DelorenziTomas/Cuadernos_de_laboratorio/assets/134660680/30508e54-c1c1-4090-bf27-b20bbe2e1a3c)
 
 ### Notas Adicionales 🗒️
-Nada que agregar.
+
+
+Sacar la cuenta de cuanto disminuye la cantidad de moleculas de agua cuando uno tenga concentraciones distintas de cada ion. 
 
 ---
 
