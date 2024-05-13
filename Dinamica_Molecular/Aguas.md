@@ -81,7 +81,11 @@ https://es.wikipedia.org/wiki/Alcalinot%C3%A9rreos#:~:text=Los%20metales%20alcal
 
 Encontre este link, de un trabajo presentado en la revista Physical Chemistry Chemical Physics. ES ORO ESTE TRABAJO.
 
+Molecular Dynamics Simulations of Alkaline Earth Metal Ions Binding to DNA Reveal Ion Size and Hydration Effects
+
 Un trabajo realizado en GROMACS con informacion parecida a la que necesitamos.
+
+Lo guardaste en C:\simu\Dinamica_Molecular\IonesAlcalinoterreos
 
 https://www.osti.gov/servlets/purl/1803534
 
