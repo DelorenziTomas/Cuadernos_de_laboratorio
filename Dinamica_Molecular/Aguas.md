@@ -120,6 +120,7 @@ Se anexa la imagen con el calculo de la cantidades de agua.
 
 Vamos a arrancar con una concentracion de 0.1M a 0.3M a 0.5M a 0.8M a 1.0M
 Griselda recomienda trabajar entre las 3000 aguas. A las concentraciones mas grandes (1.0M) se puede trabajar con 1000 aguas y conviene hacer corridas separadas de 10ns en vez de una corrida entera de 100ns (ventajas podes empezar mediciones estimativas aun con la g(r))
+
 ---
 
 **Firma del Investigador:** Delorenzi, Tomás   **Redacción:** [13/05/2024] 🖋️
