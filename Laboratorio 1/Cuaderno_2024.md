@@ -38,6 +38,7 @@ Se adjuntan las imagenes del primer set up experimental que pensamos.
 ### Resultados 📊
 Barra (cada unx fue efectuando las mediciones pertinentes):
 **Diametros:**
+
  - $D_{1}=(3.90\pm 0.2)mm$ Tomas
  - $D_{1}=(4.00\pm 0.2)mm$ Xime
  - $D_{1}=(4.10\pm 0.2)mm$ Alba
@@ -53,7 +54,9 @@ Barra (cada unx fue efectuando las mediciones pertinentes):
  - $D_{4}=(2.58\pm 0.2)mm$ Tomas
  - $D_{4}=(2.60\pm 0.2)mm$ Xime
  - $D_{4}=(2.56\pm 0.2)mm$ Alba
+
 **Longitud:**
+
  - $L_{1}=(27.0 \pm 0.1)cm$ Tomas
  - $L_{1}=(26.9 \pm 0.1)cm$ Xime
  - $L_{1}=(26.9 \pm 0.1)cm$ Alba
@@ -66,7 +69,6 @@ Barra (cada unx fue efectuando las mediciones pertinentes):
  - $L_{3}=(2.06 \pm 0.1)cm$ Xime
  - $L_{3}=(1.98 \pm 0.1)cm$ Alba
 
- 
 ### Problemas y Desafíos 🚧
 Todavia nos quedan muchos detalles del diseño de la impresora 3D que ajustar como por ejemplo como vamos a hacer que la figura conster de distintos momentos de inercia. 
 
