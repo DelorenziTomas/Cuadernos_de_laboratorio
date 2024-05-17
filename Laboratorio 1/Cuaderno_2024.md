@@ -33,6 +33,7 @@ $\vec{\ L} = I. \vec{\ \omega }$
 Asi: 
 
 $\frac{d I. \vec{\ \omega }}{dt} = \vec{\tau}$
+
 $I. \frac{d  \vec{\ \omega }}{dt} = \vec{\tau}$
 
 Definiendo la aceleración angular como:
@@ -61,7 +62,9 @@ $\frac{d \omega }{dt} = \frac{d^{2} \theta }{dt^{2}} = \ddot{\theta}$
 
 Asi: 
 $I. \ddot{\theta} = -\kappa . \theta$
+
 $I. \ddot{\theta} + \kappa . \theta = 0$
+
 $\ddot{\theta} + \frac{d \kappa }{I}. \kappa . \theta = 0$
 
 Buscamos un armonico simple, para tener un periodo que se repita.
@@ -73,7 +76,9 @@ Tales como:
 - [x] Otras
 
 De la ecuacion diferencial tenemos que:
+
 $\omega^{2} = \frac{I}{\kappa}$
+
 $\omega = \frac{2 \pi }{T}$
 
 con periodo $T$. El periodo es cuando se pasa por la misma posicion y en el mismo sentido.
@@ -124,6 +129,7 @@ En resumen, el cizallamiento es un concepto fundamental en la mecánica de mater
 ![WhatsApp Image 2024-05-17 at 16 23 46](https://github.com/DelorenziTomas/Cuadernos_de_laboratorio/assets/134660680/3ee04c91-d2b9-4b32-ba45-2047b541e356)
 
 $d_{c}= \frac{\Delta x}{L}$
+
 $\frac{\Delta x}{L}=tg(\varphi)=d_{c}$
 
 Para deformaciones pequeñas:
@@ -152,8 +158,11 @@ Suponemos que el cilindro de radio $R$ esta formado por infinitas laminas concen
 Si sumamos el efecto sobre todas las laminas 
 
 $\tau = \int_{0}^{R}r .dF =\frac{2\pi \theta G}{L}\int_{0}^{R}r^{3} .dr = \frac{2\pi \theta G}{L}\frac{R^{4}}{4}$
+
 $\tau = \frac{\pi \theta G R^{4}}{2L}$
+
 $\tau = \kappa \theta$
+
 $\kappa \theta=\frac{\pi \theta G R^{4}}{2L}$
 
 Donde $\kappa$ **coeficiente de torsion del alambre**, $G$ es el modulo de torsion del material, $R$ es el radio del alambre, $L$ es la longitud del alambre y $d$ es el diametro del alambre. 
@@ -163,6 +172,7 @@ $\kappa=\frac{\pi G R^{4}}{2L}$
 Como $d=2R=> d^{4}=16R^{4}$
 
 $\kappa = \frac{4\pi^{2}I}{T^{2}}$
+
 $\kappa = \frac{\pi G d^{4}}{32L}$
 
 Sabiendo $\kappa$ podemos conocer el modulo de torsion G.
