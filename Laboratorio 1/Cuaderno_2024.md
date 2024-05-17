@@ -8,6 +8,81 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+## Fecha: Miercoles, 27/03/2024
+
+### Información General
+- **Investigador que redacta:**  Tomás Delorenzi👨‍🔬
+- **Materia:** Laboratorio I 🧪
+- **Teoria:** Elasticidad: Modulo de torsión
+
+### Resumen del Día 📝
+Durante la clase se desarrollo la teoria del modelo del movimiento de un solido rigido.
+
+### Desarrollo 🛠️
+
+Ecuacion de movimiento de un solido rigido.
+
+$\frac{d \vec{\ L}}{dt} = \vec{\tau}$
+
+Uno de los puntos al cual se refiere el torque es al centro de masa o a un punto externo de referencia en el laboratorio.
+
+Si gira alrededor de uno de los ejes principales uno puede escribir.
+
+$ \vec{\ L} = I. \vec{\ \omega } $
+
+Asi: 
+
+$ \frac{d I. \vec{\ \omega }}{dt} = \vec{\tau} $
+$ I. \frac{d  \vec{\ \omega }}{dt} = \vec{\tau} $
+
+Definiendo la aceleración angular como:
+
+$ \vec{\alpha} = \frac{d \vec{\omega}}{dt} $
+
+$ I. \vec{\alpha} = \vec{\tau} $
+
+El eje de giro lo vamos a poner alrededor de uno de los ejes principales. 
+Una de las formas para medirla es el <u>pendulo de torsión</u>:
+
+(insertar imagenes)
+
+**Objetivo final:** Poder calcular el módulo de torsión para diversos alambres.
+
+
+### Objetivos Cumplidos 🏆
+- [x] Medición de dicroismo
+- [x] Espectros de absorción
+- [x] Birrefringencia
+- [ ] Otro objetivo (si no se completó)
+
+### Objetivos para el Próximo Día 🎯
+[Establece los objetivos que planeas alcanzar en el próximo día de trabajo, considerando los experimentos a realizar.]
+
+### Resultados 📊
+[Registra los resultados obtenidos durante los experimentos, incluyendo gráficos, datos numéricos, y cualquier observación relevante.]
+
+### Problemas y Desafíos 🚧
+[Cualquier problema o desafío que hayas enfrentado durante el día y cómo lo resolviste. Esto podría incluir dificultades técnicas, errores en las mediciones, etc.]
+
+### Conclusiones 🧾
+[Conclusiones y observaciones importantes del día en relación a los experimentos realizados. Puedes discutir tendencias, patrones, o resultados inesperados.]
+
+### Tareas Pendientes 📌
+[Tareas que debes realizar en el próximo día de trabajo para avanzar en tus investigaciones o experimentos.]
+
+### Recursos 📚
+[Lista de recursos, referencias, equipos y documentos utilizados durante el día, incluyendo manuales, libros, y otros materiales de referencia.]
+
+### Notas Adicionales 🗒️
+[Cualquier otra información relevante o notas adicionales que quieras incluir.]
+
+---
+
+**Firma del Investigador:** ___________________________   **Fecha:** [Fecha] 🖋️
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## Fecha: Viernes, 05/04/2024
 
 ### Información General
