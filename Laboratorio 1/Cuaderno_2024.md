@@ -20,7 +20,7 @@ Durante la clase se desarrollo la teoria del modelo del movimiento de un solido 
 
 ### Desarrollo 🛠️
 
-Ecuacion de movimiento de un solido rigido.
+#### Ecuacion de movimiento de un solido rigido.
 
 $\frac{d \vec{\ L}}{dt} = \vec{\tau}$
 
@@ -28,23 +28,98 @@ Uno de los puntos al cual se refiere el torque es al centro de masa o a un punto
 
 Si gira alrededor de uno de los ejes principales uno puede escribir.
 
-$ \vec{\ L} = I. \vec{\ \omega } $
+$\vec{\ L} = I. \vec{\ \omega }$
 
 Asi: 
 
-$ \frac{d I. \vec{\ \omega }}{dt} = \vec{\tau} $
-$ I. \frac{d  \vec{\ \omega }}{dt} = \vec{\tau} $
+$\frac{d I. \vec{\ \omega }}{dt} = \vec{\tau}$
+$I. \frac{d  \vec{\ \omega }}{dt} = \vec{\tau}$
 
 Definiendo la aceleración angular como:
 
-$ \vec{\alpha} = \frac{d \vec{\omega}}{dt} $
+$\vec{\alpha} = \frac{d \vec{\omega}}{dt}$
 
-$ I. \vec{\alpha} = \vec{\tau} $
+$I. \vec{\alpha} = \vec{\tau}$
 
 El eje de giro lo vamos a poner alrededor de uno de los ejes principales. 
-Una de las formas para medirla es el <u>pendulo de torsión</u>:
+Una de las formas para medirla es el **pendulo de torsión**:
 
-(insertar imagenes)
+![WhatsApp Image 2024-05-17 at 15 50 59](https://github.com/DelorenziTomas/Cuadernos_de_laboratorio/assets/134660680/df2e91a2-f6e2-4022-9ff7-9c1896e4f919)
+
+Si $\theta < < $ podemos escribir:
+
+$\tau = - \kappa . \theta$
+
+Como la Ley de Hooke para la torsion.
+¿Donde se cumple esta linealidad? Veamos que dicen las ecuaciones 
+
+$I. \frac{d \omega }{dt} = \tau = -\kappa . \theta$
+
+Podemos escribir lo siguiente:
+
+$\frac{d \omega }{dt} = \frac{d^{2} \theta }{dt^{2}} = \ddot{\theta}$
+
+Asi: 
+$I. \ddot{\theta} = -\kappa . \theta$
+$I. \ddot{\theta} + \kappa . \theta = 0$
+$\ddot{\theta} + \frac{d \kappa }{I}. \kappa . \theta = 0$
+
+Buscamos un armonico simple, para tener un periodo que se repita.
+Hay que tener en cuentalas condiciones del laboratorio
+
+Tales como: 
+- [x] Tomás Delorenzi
+- [x] Corrientes de aire
+- [x] Otras
+
+De la ecuacion diferencial tenemos que:
+$\omega^{2} = \frac{I}{\kappa}$
+$\omega = \frac{2 \pi }{T}$
+
+con periodo $T$. El periodo es cuando se pasa por la misma posicion y en el mismo sentido.
+Asi si las combinamos estas dos ultimas ecuaciones llegamos a la siguiente ecuacion.
+
+$T = 2.\pi \sqrt{\frac{I}{\kappa}}$
+
+Haces 10 oscilaciones, lo paras, lo volves a poner a andar para un angulo dado.
+
+![WhatsApp Image 2024-05-17 at 16 14 29](https://github.com/DelorenziTomas/Cuadernos_de_laboratorio/assets/134660680/a5852750-1eff-4f6d-94df-7b6a88aaacb3)
+
+#### Cizallamiento
+
+El cizallamiento es un término utilizado en mecánica de materiales y en ingeniería para describir un tipo de deformación que ocurre cuando fuerzas opuestas se aplican paralelamente y en direcciones opuestas sobre un objeto. Estas fuerzas generan un esfuerzo cortante en el material, causando que sus capas internas se deslicen unas sobre otras.
+
+###### Detalles Clave sobre el Cizallamiento
+
+###### Esfuerzo Cortante
+- **Definición**: El esfuerzo cortante es la fuerza por unidad de área que actúa paralelamente a la superficie de un material. Se mide en pascales (Pa) o en unidades equivalentes.
+- **Fórmula**: 
+  \[
+  \tau = \frac{F}{A}
+  \]
+  donde \( \tau \) es el esfuerzo cortante, \( F \) es la fuerza aplicada, y \( A \) es el área sobre la cual actúa la fuerza.
+
+###### Deformación por Cizallamiento
+- La deformación ocurre cuando las capas internas de un material se deslizan unas sobre otras debido a la aplicación de fuerzas paralelas.
+- La magnitud de esta deformación se mide en términos del ángulo de deformación, usualmente en radianes.
+
+###### Aplicaciones Prácticas
+- **Ingeniería Estructural**: En la construcción de edificios y puentes, el cizallamiento es una consideración crucial para garantizar que las estructuras puedan resistir fuerzas laterales, como las causadas por el viento o terremotos.
+- **Materiales de Ingeniería**: En el diseño de componentes como ejes, vigas y pernos, es vital entender cómo estos materiales se comportarán bajo cargas cortantes para evitar fallas.
+
+###### Ejemplos Comunes
+- **Corte con Tijeras**: Al cortar papel con tijeras, las hojas de las tijeras aplican fuerzas en direcciones opuestas a lo largo del papel, creando un cizallamiento que corta el material.
+- **Deslizamiento de Capas Geológicas**: En geología, el cizallamiento puede describir el movimiento de fallas y deslizamientos de tierra donde capas de roca se desplazan lateralmente unas sobre otras.
+
+###### Representación Gráfica del Cizallamiento
+
+Para entender visualmente el cizallamiento, imagina un libro con varias páginas. Si empujas la parte superior del libro hacia un lado mientras sostienes la parte inferior fija, las páginas intermedias se deslizarán unas sobre otras. Este deslizamiento representa la deformación por cizallamiento.
+
+###### Importancia en Diseño e Ingeniería
+
+En el diseño y análisis de estructuras y componentes mecánicos, es crucial calcular y considerar el esfuerzo cortante para garantizar la seguridad y durabilidad de los materiales utilizados. Las fallas por cizallamiento pueden ser catastróficas, por lo que los ingenieros deben asegurarse de que los materiales y las uniones sean capaces de soportar las cargas previstas.
+
+En resumen, el cizallamiento es un concepto fundamental en la mecánica de materiales que describe cómo las fuerzas paralelas causan deslizamientos internos dentro de un material, afectando su integridad estructural y funcional.
 
 **Objetivo final:** Poder calcular el módulo de torsión para diversos alambres.
 
