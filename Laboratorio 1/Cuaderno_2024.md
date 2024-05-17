@@ -121,11 +121,55 @@ En el diseño y análisis de estructuras y componentes mecánicos, es crucial ca
 
 En resumen, el cizallamiento es un concepto fundamental en la mecánica de materiales que describe cómo las fuerzas paralelas causan deslizamientos internos dentro de un material, afectando su integridad estructural y funcional.
 
-**Objetivo final:** Poder calcular el módulo de torsión para diversos alambres.
+![WhatsApp Image 2024-05-17 at 16 23 46](https://github.com/DelorenziTomas/Cuadernos_de_laboratorio/assets/134660680/3ee04c91-d2b9-4b32-ba45-2047b541e356)
+
+$d_{c}= \frac{\Delta x}{L}$
+$\frac{\Delta x}{L}=tg(\varphi)=d_{c}$
+
+Para deformaciones pequeñas:
+
+$\varphi< < tg(\varphi)\approx sen(\varphi)\simeq \varphi$
+
+$$d_{c} = \varphi$
+
+###### Modulo de cizalladura
+
+$G=\frac{T_{c}}{d_{c}}$
+
+Entonces para $\varphi< <$ tenemos lo siguiente:
+$T_{c} \simeq G. \varphi$
+
+donde $G$ varia de un material a otro, es una caracteristica de cada material.
+
+Existe ya un modelo, veamos:
+
+### Modelo para una barra cilindrica de radio R y longitud L
+
+![WhatsApp Image 2024-05-17 at 16 46 53](https://github.com/DelorenziTomas/Cuadernos_de_laboratorio/assets/134660680/5e57d221-a549-4682-9c73-425d31e8ad4f)
+
+Suponemos que el cilindro de radio $R$ esta formado por infinitas laminas concentricas de espesor $dr$ y radio $r$ . El torque de la fuerza $dF$ a la distancia $r$ es de $d\tau = r .dF$
+
+Si sumamos el efecto sobre todas las laminas 
+
+$\tau = \int_{0}^{R}r .dF =\frac{2\pi \theta G}{L}\int_{0}^{R}r^{3} .dr = \frac{2\pi \theta G}{L}\frac{R^{4}}{4}$
+$\tau = \frac{\pi \theta G R^{4}}{2L}$
+$\tau = \kappa \theta$
+$\kappa \theta=\frac{\pi \theta G R^{4}}{2L}$
+
+Donde $\kappa$ **coeficiente de torsion del alambre**, $G$ es el modulo de torsion del material, $R$ es el radio del alambre, $L$ es la longitud del alambre y $d$ es el diametro del alambre. 
+
+$\kappa=\frac{\pi G R^{4}}{2L}$
+
+Como $d=2R=> d^{4}=16R^{4}$
+
+$\kappa = \frac{4\pi^{2}I}{T^{2}}$
+$\kappa = \frac{\pi G d^{4}}{32L}$
+
+Sabiendo $\kappa$ podemos conocer el modulo de torsion G.
 
 
 ### Objetivos Cumplidos 🏆
-- [x] Medición de dicroismo
+- [x] Entendimos la teoria.
 - [x] Espectros de absorción
 - [x] Birrefringencia
 - [ ] Otro objetivo (si no se completó)
