@@ -94,10 +94,10 @@ El cizallamiento es un término utilizado en mecánica de materiales y en ingeni
 ###### Esfuerzo Cortante
 - **Definición**: El esfuerzo cortante es la fuerza por unidad de área que actúa paralelamente a la superficie de un material. Se mide en pascales (Pa) o en unidades equivalentes.
 - **Fórmula**: 
-  \[
+  $\[
   \tau = \frac{F}{A}
-  \]
-  donde \( \tau \) es el esfuerzo cortante, \( F \) es la fuerza aplicada, y \( A \) es el área sobre la cual actúa la fuerza.
+  \]$
+  donde $\( \tau \)$ es el esfuerzo cortante, $\( F \)$ es la fuerza aplicada, y $\( A \)$ es el área sobre la cual actúa la fuerza.
 
 ###### Deformación por Cizallamiento
 - La deformación ocurre cuando las capas internas de un material se deslizan unas sobre otras debido a la aplicación de fuerzas paralelas.
