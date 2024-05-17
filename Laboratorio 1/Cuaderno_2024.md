@@ -71,9 +71,9 @@ Buscamos un armonico simple, para tener un periodo que se repita.
 Hay que tener en cuentalas condiciones del laboratorio
 
 Tales como: 
-- [x] Tomás Delorenzi
-- [x] Corrientes de aire
-- [x] Otras
+- [x] Temperatura (se dilata, se contrae, etc).
+- [x] Corrientes de aire.
+- [x] Otras.
 
 De la ecuacion diferencial tenemos que:
 
@@ -180,34 +180,37 @@ Sabiendo $\kappa$ podemos conocer el modulo de torsion G.
 
 ### Objetivos Cumplidos 🏆
 - [x] Entendimos la teoria.
-- [x] Espectros de absorción
-- [x] Birrefringencia
-- [ ] Otro objetivo (si no se completó)
+- [x] Entendimos que era lo que habia que calcular.
 
 ### Objetivos para el Próximo Día 🎯
-[Establece los objetivos que planeas alcanzar en el próximo día de trabajo, considerando los experimentos a realizar.]
+Empezar a diseñar la pieza en el Freecad. Software para diseñar objetos 3D y mandarlos a imprimir (Kura Craft, archivos.stl) a la impresora de GFSG.
 
 ### Resultados 📊
-[Registra los resultados obtenidos durante los experimentos, incluyendo gráficos, datos numéricos, y cualquier observación relevante.]
+Nulos.
 
 ### Problemas y Desafíos 🚧
-[Cualquier problema o desafío que hayas enfrentado durante el día y cómo lo resolviste. Esto podría incluir dificultades técnicas, errores en las mediciones, etc.]
+- [x] ¿Como calcular el momento de inercia de un objeto compuesto? Buscar en la teoria de Mecanica Clasica
+- [x] ¿El objeto tiene que estar necesariamente agarrado del centro de masa? No, necesariamente tiene que estar en el punto de agarre, pero si en el mismo eje de rotación.
+- [x] ¿Como lo vamos a diseñar? Todavia no sabemos, no sabemos que tipos de pesas vamos a usar para los distintos momentos de inercia que necesitamos.
 
 ### Conclusiones 🧾
-[Conclusiones y observaciones importantes del día en relación a los experimentos realizados. Puedes discutir tendencias, patrones, o resultados inesperados.]
+
+Vimos el objetivo final del proyecto.
 
 ### Tareas Pendientes 📌
-[Tareas que debes realizar en el próximo día de trabajo para avanzar en tus investigaciones o experimentos.]
+- [x] Interiorizarnos con el Freecad.
+- [x] Ponernos de acuerdo con el set-up experimental.
+- [x] Que pesas vamos a utilizar? Utilizaremos imanes? (idea de Alba, descartada por Griselda, no sabiamos las lineas de campo) 
 
 ### Recursos 📚
-[Lista de recursos, referencias, equipos y documentos utilizados durante el día, incluyendo manuales, libros, y otros materiales de referencia.]
+
+Preguntar a Griselda de donde saco la teoria.
 
 ### Notas Adicionales 🗒️
-[Cualquier otra información relevante o notas adicionales que quieras incluir.]
-
+Nada que agregar.
 ---
 
-**Firma del Investigador:** ___________________________   **Fecha:** [Fecha] 🖋️
+**Firma del Investigador:** Tomás Delorenzi   **Fecha de redación:** 17/05/2024 🖋️
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
