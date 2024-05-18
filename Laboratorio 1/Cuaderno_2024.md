@@ -189,7 +189,7 @@ Empezar a diseñar la pieza en el Freecad. Software para diseñar objetos 3D y m
 Nulos.
 
 ### Problemas y Desafíos 🚧
-- [x] ¿Como calcular el momento de inercia de un objeto compuesto? Buscar en la teoria de Mecanica Clasica?
+- [x] ¿Como calcular el momento de inercia de un objeto compuesto? Buscar en la teoria de Mecanica Clasica
 - [x] ¿El objeto tiene que estar necesariamente agarrado del centro de masa? No, necesariamente tiene que estar en el punto de agarre, pero si en el mismo eje de rotación.
 - [x] ¿Como lo vamos a diseñar? Todavia no sabemos, no sabemos que tipos de pesas vamos a usar para los distintos momentos de inercia que necesitamos.
 
