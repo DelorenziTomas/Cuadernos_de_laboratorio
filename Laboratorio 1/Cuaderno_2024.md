@@ -22,7 +22,7 @@ Durante la clase se desarrollo la teoria del modelo del movimiento de un solido 
 
 #### Ecuacion de movimiento de un solido rigido.
 
-$\frac{d \vec{\ L}}{dt} = \vec{\tau}$
+$\frac{d \vec{\  L}}{dt} = \vec{\tau}$
 
 Uno de los puntos al cual se refiere el torque es al centro de masa o a un punto externo de referencia en el laboratorio.
 
