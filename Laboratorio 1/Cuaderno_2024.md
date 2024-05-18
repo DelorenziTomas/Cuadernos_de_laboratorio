@@ -65,7 +65,7 @@ $I. \ddot{\theta} = -\kappa . \theta$
 
 $I. \ddot{\theta} + \kappa . \theta = 0$
 
-$\ddot{\theta} + \frac{d \kappa }{I}. \kappa . \theta = 0$
+$\ddot{\theta} + \frac{ \kappa }{I}. \theta = 0$
 
 Buscamos un armonico simple, para tener un periodo que se repita.
 Hay que tener en cuentalas condiciones del laboratorio
