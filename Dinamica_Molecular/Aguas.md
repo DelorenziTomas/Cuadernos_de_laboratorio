@@ -126,3 +126,48 @@ Griselda recomienda trabajar entre las 3000 aguas. A las concentraciones mas gra
 **Firma del Investigador:** Delorenzi, Tomás   **Redacción:** [13/05/2024] 🖋️
 
 ---
+
+---
+## Sabado, 18/05/2024 📆
+---
+
+### Información General
+- **Fecha:** Sabado, 18/05/2024 📆
+- **Investigador:** Tomás Delorenzi 👨‍🔬
+- **Molécula:** Agua SPC/E 🧪
+- **Objetivo del Día:** Volver a tomar contacto con GROMACS. 🎯
+
+### Resumen del Día 📝
+Me pongo a leer distintos tutoriales para ir volviendo a interiorizarme.
+
+### Modificaciones y Avances Realizados 🛠️
+
+Empiezo a completar un tutorial que encontre en Google (https://group.miletic.net/en/tutorials/gromacs/1-tip4pew-water/) el problema es que usa un modelo de agua que no es el que nosotros tenemos planeado utilizar. 
+
+Indagando un poco mas encontre el siguiente trabajo **A systematic study of water models for molecular simulation: Derivation of water models optimized for use with a reaction field** Link: https://pure.rug.nl/ws/portalfiles/portal/71287254/1.476482.pdf que hace una comparativa entre distintos tipos de modelos de aguas.
+
+
+### Objetivos Cumplidos 🏆
+- [x]  
+  
+### Objetivos del trabajo 🎯
+
+### Resultados 📊
+
+### Problemas y Desafíos 🚧
+
+### Conclusiones 🧾
+
+### Tareas Pendientes 📌
+- [ ] 
+- [ ] 
+- [ ] 
+
+### Recursos 📚
+
+### Notas Adicionales 🗒️
+Nada que agregar.
+
+---
+**Firma del Investigador:** Delorenzi, Tomás   **Redacción:** [18/05/2024] 🖋️
+---
