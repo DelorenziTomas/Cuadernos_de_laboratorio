@@ -371,7 +371,7 @@ Ninguna
 ---
 
 ---
-## Fecha: Viernes, 03/05/2024
+## Fecha: Miercoles, 01/05/2024
 
 ### Información General
 - **Investigador que redacta:**  Tomás Delorenzi👨‍🔬
@@ -379,99 +379,66 @@ Ninguna
 - **Equipos Utilizados:** Calibre (precision: 0.2 mm). Regla (precision: 0.1 cm) 🧲
 
 ### Resumen del Día 📝
-Hicimos un primer modelo del dispositivo experimental. Tambien se tomaron las primeras mediciones.
+Fue feriado, no hicimos nada.
 
-### Modificaciones y Avances Realizados 🛠️
-Comprendimos la teoria y vimos cual era el interes final del trabajo que vamos a llevar a cabo. 
-Se adjuntan las imagenes del primer set up experimental que pensamos.
-
-(insertar imagenes)
-
-**Objetivo final:** Poder calcular el módulo de torsión para diversos alambres.
-
-
-### Objetivos Cumplidos 🏆
-- [x] Medición de dicroismo
-- [x] Espectros de absorción
-- [x] Birrefringencia
-- [ ] Otro objetivo (si no se completó)
-
-### Objetivos para el Próximo Día 🎯
-[Establece los objetivos que planeas alcanzar en el próximo día de trabajo, considerando los experimentos a realizar.]
-
-### Resultados 📊
-[Registra los resultados obtenidos durante los experimentos, incluyendo gráficos, datos numéricos, y cualquier observación relevante.]
-
-### Problemas y Desafíos 🚧
-[Cualquier problema o desafío que hayas enfrentado durante el día y cómo lo resolviste. Esto podría incluir dificultades técnicas, errores en las mediciones, etc.]
-
-### Conclusiones 🧾
-[Conclusiones y observaciones importantes del día en relación a los experimentos realizados. Puedes discutir tendencias, patrones, o resultados inesperados.]
-
-### Tareas Pendientes 📌
-[Tareas que debes realizar en el próximo día de trabajo para avanzar en tus investigaciones o experimentos.]
-
-### Recursos 📚
-[Lista de recursos, referencias, equipos y documentos utilizados durante el día, incluyendo manuales, libros, y otros materiales de referencia.]
-
-### Notas Adicionales 🗒️
-[Cualquier otra información relevante o notas adicionales que quieras incluir.]
 
 ---
 
-**Firma del Investigador:** ___________________________   **Fecha:** [Fecha] 🖋️
+**Firma del Investigador:** Delorenzi, Tomás  **Fecha de redaccion:** 20/05/2024 🖋️
 
 ---
 
 ---
-## Fecha: Miercoles, 05/04/2024
+## Fecha: Viernes, 03/04/2024
 
 ### Información General
 - **Investigador que redacta:**  Tomás Delorenzi👨‍🔬
 - **Materia:** Laboratorio I 🧪
-- **Equipos Utilizados:** Calibre (precision: 0.2 mm). Regla (precision: 0.1 cm) 🧲
+- **Equipos Utilizados:** Notebook, Calibre (precision 0.2 mm) 🧲
 
 ### Resumen del Día 📝
-Hicimos un primer modelo del dispositivo experimental. Tambien se tomaron las primeras mediciones.
+Sacamos las primeras mediciones de los discos duros, tambien empezamos a usar Freecad.
 
 ### Modificaciones y Avances Realizados 🛠️
-Comprendimos la teoria y vimos cual era el interes final del trabajo que vamos a llevar a cabo. 
-Se adjuntan las imagenes del primer set up experimental que pensamos.
 
-(insertar imagenes)
+Precisamos los tamaños de las pesas y los discos duros para hacer la pieza que se va a imprimir en la impresora 3D. Para contener los discos rigidos; puse eso para recalcar que solamente hicimos esa parte de la pieza.
 
-**Objetivo final:** Poder calcular el módulo de torsión para diversos alambres.
+Tambien aprendimos a usar Freecad, software para diseñar la figura.
 
+A continuacion se van a anexar los bocetos de la figura.
 
 ### Objetivos Cumplidos 🏆
-- [x] Medición de dicroismo
-- [x] Espectros de absorción
-- [x] Birrefringencia
-- [ ] Otro objetivo (si no se completó)
+- [x] Tomar las primeras mediciones.
+- [x] Empezar a aprender a usar Freecad.
 
 ### Objetivos para el Próximo Día 🎯
-[Establece los objetivos que planeas alcanzar en el próximo día de trabajo, considerando los experimentos a realizar.]
+- [x] Terminar el diseño en el Freecad.
+- [x] Ver cuanto tiempo toma hacer las primeras figuras en la impresora 3D para ver si es factible que podamos imprimirla dentro de los tiempos que podemos usar la impresora 3D
 
 ### Resultados 📊
-[Registra los resultados obtenidos durante los experimentos, incluyendo gráficos, datos numéricos, y cualquier observación relevante.]
+
+Un jornada de aprendizaje e interiorizacion con el software de diseño 3D.
 
 ### Problemas y Desafíos 🚧
-[Cualquier problema o desafío que hayas enfrentado durante el día y cómo lo resolviste. Esto podría incluir dificultades técnicas, errores en las mediciones, etc.]
+
+Entender como movernos a traves de la interfaz de manera mas fluida
 
 ### Conclusiones 🧾
-[Conclusiones y observaciones importantes del día en relación a los experimentos realizados. Puedes discutir tendencias, patrones, o resultados inesperados.]
+
+Encontramos una muy buena herramienta en la recomendacion de Julian Montero.
 
 ### Tareas Pendientes 📌
-[Tareas que debes realizar en el próximo día de trabajo para avanzar en tus investigaciones o experimentos.]
+
+Terminar la pieza donde quedan los discos duros.
 
 ### Recursos 📚
-[Lista de recursos, referencias, equipos y documentos utilizados durante el día, incluyendo manuales, libros, y otros materiales de referencia.]
+https://www.youtube.com/watch?v=U0rO1oU4Akg
 
 ### Notas Adicionales 🗒️
-[Cualquier otra información relevante o notas adicionales que quieras incluir.]
+Nada que agregar.
 
 ---
 
-**Firma del Investigador:** ___________________________   **Fecha:** [Fecha] 🖋️
+**Firma del Investigador:** Delorenzi, Tomás.   **Fecha de redacción:** 20/05/2024 🖋️
 
 ---
