@@ -303,9 +303,129 @@ Notamos que tomamos mediciones distintas.
 ---
 
 **Firma:** Delorenzi, Tomás   **Fecha de redacción:** 16/05/2024 🖋️
+---
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+## Fecha: Viernes, 26/04/2024
 
+### Información General
+
+- **Investigador que redacta:**  Tomás Delorenzi👨‍🔬
+- **Materia:** Laboratorio I 🧪
+- **Equipos Utilizados:** Lapiz, computadora y mente 🧲
+
+### Resumen del Día 📝
+
+Seguimos avanzando con el modelo del sistema. 
+
+### Modificaciones y Avances Realizados 🛠️
+
+Sorteamos varios problemas maquinando como podiamos hacer que nuestra figura tenga varios momentos de inercia distintos. De mismo modo que si nuestra figura iba a estar sostenida tanto de arriba como de abajo. 
+
+Concluimos que en principio ibamos a pensar la figura de tal manera como para que quede solo sostenido desde la parte de arriba. Como si quedase colgado.
+
+El modelo debe tener simetria en el eje *x* y tambien en el eje *y*. En el eje *z*, el eje de rotacion, debe estar NECESARIAMENTE sobre el eje z.
+
+![WhatsApp Image 2024-04-27 at 18 16 47 (1)](https://github.com/DelorenziTomas/Cuadernos_de_laboratorio/assets/134660680/223dce04-656a-457c-ab04-8213c735ebff)
+
+![WhatsApp Image 2024-04-27 at 18 16 47](https://github.com/DelorenziTomas/Cuadernos_de_laboratorio/assets/134660680/e48fff5f-b175-4d34-8076-891f19e4797c)
+
+![WhatsApp Image 2024-04-27 at 18 15 46](https://github.com/DelorenziTomas/Cuadernos_de_laboratorio/assets/134660680/d90a566d-5e27-478f-924d-d6270f256b14)
+
+### Objetivos Cumplidos 🏆
+- [x] Ponernos de acuerdo en como medianamente va a ser el primer modelo que vamos a empezar a diseñar.
+- [ ] Empezar a diseñarlo en el Freecad.
+
+### Objetivos para el Próximo Día 🎯
+
+- [ ] Empezar a diseñarlo en Freecad.
+
+
+### Resultados 📊
+
+Una jornada exitosa en la que pensamos de que manera podemos tener una figura 3D con distintos momentos de inercia
+
+### Problemas y Desafíos 🚧
+
+Todavia no sabemos usar Freecad
+
+### Conclusiones 🧾
+
+Una jornada pensar los posibles problemas que podemos llegar a tener con los discos duros que rotan, que se desplacen, que roten uno con respoecto de otro cuando gire la figura entera.
+
+### Tareas Pendientes 📌
+
+Entender como se usa freecad.
+
+### Recursos 📚
+
+https://www.youtube.com/watch?v=U0rO1oU4Akg
+
+### Notas Adicionales 🗒️
+
+Ninguna
+
+
+---
+
+**Firma del Investigador:** Delorenzi, Tomás  **Fecha de redacción:** 20/05/2024 🖋️
+
+---
+
+---
+## Fecha: Viernes, 03/05/2024
+
+### Información General
+- **Investigador que redacta:**  Tomás Delorenzi👨‍🔬
+- **Materia:** Laboratorio I 🧪
+- **Equipos Utilizados:** Calibre (precision: 0.2 mm). Regla (precision: 0.1 cm) 🧲
+
+### Resumen del Día 📝
+Hicimos un primer modelo del dispositivo experimental. Tambien se tomaron las primeras mediciones.
+
+### Modificaciones y Avances Realizados 🛠️
+Comprendimos la teoria y vimos cual era el interes final del trabajo que vamos a llevar a cabo. 
+Se adjuntan las imagenes del primer set up experimental que pensamos.
+
+(insertar imagenes)
+
+**Objetivo final:** Poder calcular el módulo de torsión para diversos alambres.
+
+
+### Objetivos Cumplidos 🏆
+- [x] Medición de dicroismo
+- [x] Espectros de absorción
+- [x] Birrefringencia
+- [ ] Otro objetivo (si no se completó)
+
+### Objetivos para el Próximo Día 🎯
+[Establece los objetivos que planeas alcanzar en el próximo día de trabajo, considerando los experimentos a realizar.]
+
+### Resultados 📊
+[Registra los resultados obtenidos durante los experimentos, incluyendo gráficos, datos numéricos, y cualquier observación relevante.]
+
+### Problemas y Desafíos 🚧
+[Cualquier problema o desafío que hayas enfrentado durante el día y cómo lo resolviste. Esto podría incluir dificultades técnicas, errores en las mediciones, etc.]
+
+### Conclusiones 🧾
+[Conclusiones y observaciones importantes del día en relación a los experimentos realizados. Puedes discutir tendencias, patrones, o resultados inesperados.]
+
+### Tareas Pendientes 📌
+[Tareas que debes realizar en el próximo día de trabajo para avanzar en tus investigaciones o experimentos.]
+
+### Recursos 📚
+[Lista de recursos, referencias, equipos y documentos utilizados durante el día, incluyendo manuales, libros, y otros materiales de referencia.]
+
+### Notas Adicionales 🗒️
+[Cualquier otra información relevante o notas adicionales que quieras incluir.]
+
+---
+
+**Firma del Investigador:** ___________________________   **Fecha:** [Fecha] 🖋️
+
+---
+
+---
 ## Fecha: Miercoles, 05/04/2024
 
 ### Información General
@@ -356,3 +476,4 @@ Se adjuntan las imagenes del primer set up experimental que pensamos.
 
 **Firma del Investigador:** ___________________________   **Fecha:** [Fecha] 🖋️
 
+---
