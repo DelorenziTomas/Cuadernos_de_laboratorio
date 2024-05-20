@@ -326,8 +326,6 @@ Concluimos que en principio ibamos a pensar la figura de tal manera como para qu
 
 El modelo debe tener simetria en el eje *x* y tambien en el eje *y*. En el eje *z*, el eje de rotacion, debe estar NECESARIAMENTE sobre el eje z.
 
-![WhatsApp Image 2024-04-27 at 18 16 47 (1)](https://github.com/DelorenziTomas/Cuadernos_de_laboratorio/assets/134660680/223dce04-656a-457c-ab04-8213c735ebff)
-
 ![WhatsApp Image 2024-04-27 at 18 16 47](https://github.com/DelorenziTomas/Cuadernos_de_laboratorio/assets/134660680/e48fff5f-b175-4d34-8076-891f19e4797c)
 
 ![WhatsApp Image 2024-04-27 at 18 15 46](https://github.com/DelorenziTomas/Cuadernos_de_laboratorio/assets/134660680/d90a566d-5e27-478f-924d-d6270f256b14)
