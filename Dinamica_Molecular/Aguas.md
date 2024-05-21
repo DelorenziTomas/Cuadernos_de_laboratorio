@@ -146,28 +146,72 @@ Empiezo a completar un tutorial que encontre en Google (https://group.miletic.ne
 
 Indagando un poco mas encontre el siguiente trabajo **A systematic study of water models for molecular simulation: Derivation of water models optimized for use with a reaction field** Link: https://pure.rug.nl/ws/portalfiles/portal/71287254/1.476482.pdf que hace una comparativa entre distintos tipos de modelos de aguas.
 
-
-### Objetivos Cumplidos 🏆
-- [x]  
-  
-### Objetivos del trabajo 🎯
-
-### Resultados 📊
-
-### Problemas y Desafíos 🚧
-
-### Conclusiones 🧾
-
-### Tareas Pendientes 📌
-- [ ] 
-- [ ] 
-- [ ] 
-
-### Recursos 📚
-
 ### Notas Adicionales 🗒️
 Nada que agregar.
 
 ---
 **Firma del Investigador:** Delorenzi, Tomás   **Redacción:** [18/05/2024] 🖋️
+---
+
+
+---
+## Martes, 21/05/2024 📆
+---
+
+### Información General
+- **Fecha:** Sabado, 18/05/2024 📆
+- **Investigador:** Tomás Delorenzi 👨‍🔬
+- **Molécula:** Agua SPC/E 🧪
+- **Objetivo del Día:** Volver a tomar contacto con GROMACS. 🎯
+
+### Resumen del Día 📝
+
+
+
+### Modificaciones y Avances Realizados 🛠️
+
+Encontre un muy buen articulo parecido a lo que se quiere hacer ("C:\simu\Dinamica_Molecular\IonesAlcalinoterreos\2020A Molecular Dynamics Simulations of Alkaline Earth Metal Ions.pdf"). Queda como pendiente ponerte a leerlo.
+
+Me puse a ver https://www.youtube.com/watch?v=MWafKFVgFTU tutorial de GROMACS para volver a tomar vuelo. 
+
+Hablando con Mario G. Campo me soluciono varios problemas y me agrego algunas preguntas en el caso que alguien quiera estudiar el agua.
+- [x]  ¿Cual es el mejor modelo de agua para hacer lo que se quiere hacer?
+- [x]  ¿Hay modelos de iones desarrollados?
+
+Mario me compartio y mostro commo llenar una caja de aguas (C:\simu\Dinamica_Molecular\IonesAlcalinoterreos\Mario\historial.txt). 
+
+Tambien me aconsejo ir jugando con las dimensiones de las cajas para que con el comando "gmx solvate" vaya llenando con la cantidad de aguas necesarias que necesito para tener la concentracion deseada.
+
+Me recomendo Griselda que primero haga la minimizacion, la estabilizacion y luego con "gmx genion" agregue la cantidad de iones alcalinoterreos (Ca o Mg) necesarios.
+
+### Objetivos Cumplidos 🏆
+
+- [x] Poder crear las distintas cajas para las distintas concentraciones deseadas.
+
+### Resultados 📊
+
+Una jornada exitosa en la que pude encontrar teoria reelevante, aunque no aun sobre la competencia (competencia = cual ion desplaza a cual) de iones. Tambien una fructifera charla con Mario que me ayudo compartiendome sus archivos .gro y sus .top para que pueda seguir adelante. 
+
+### Problemas y Desafíos 🚧
+
+Ninguno, todavia.
+
+### Conclusiones 🧾
+
+Una buena jornada.
+
+### Tareas Pendientes 📌
+
+- [ ] Hacer las corridas para cualquiera de los iones
+- [ ] Crear un programita que calcule la cantidad exactas de aguas que tenemos que poner para una concentracion dada.
+
+### Recursos 📚
+
+Ninguno
+
+### Notas Adicionales 🗒️
+Nada que agregar.
+
+---
+**Firma del Investigador:** Delorenzi, Tomás   **Redacción:** [21/05/2024] 🖋️
 ---
