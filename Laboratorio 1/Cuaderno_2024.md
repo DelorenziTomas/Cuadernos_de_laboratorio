@@ -468,7 +468,9 @@ Despues de revisar las dimensiones de la pieza nos dimos cuenta que la figura se
 
 Se adjuntan imagenes de lo que fue este dia.
 
+![WhatsApp Image 2024-05-20 at 16 08 31](https://github.com/DelorenziTomas/Cuadernos_de_laboratorio/assets/134660680/73fdd495-4789-4561-bac8-085481e7e93c)
 
+![WhatsApp Image 2024-05-20 at 16 08 30](https://github.com/DelorenziTomas/Cuadernos_de_laboratorio/assets/134660680/3988eaed-f3cb-47b7-a746-b5a25224eb10)
 
 Terminada la pieza principal dimos por finalizada la jornada. Estuvimos trabajando desde las 10am hasta las 5pm aproximadamente. En ese momento Francisco Manuel Diaz Torres asumia con consejero superior por eso nos quedamos trabajando en la biblioteca central.
 
