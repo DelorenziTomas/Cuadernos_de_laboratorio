@@ -442,3 +442,236 @@ Nada que agregar.
 **Firma del Investigador:** Delorenzi, Tomás.   **Fecha de redacción:** 20/05/2024 🖋️
 
 ---
+
+---
+## Fecha: Miercoles, 08/05/2024
+
+### Información General
+
+- **Investigador que redacta:**  Tomás Delorenzi👨‍🔬
+- **Materia:** Laboratorio I 🧪
+- **Equipos Utilizados:** Lapiz, computadora y mente 🧲
+
+### Resumen del Día 📝
+
+Seguimos avanzando con el modelo del sistema. 
+
+### Modificaciones y Avances Realizados 🛠️
+
+Comentario fuera de la materia: este dia vino la FAN (Fundacion Argentina de Nanotecnologia) a dar una charla para investigadores en el Consejo Superior. Tomás Delorenzi y Tomás Navarro Febre se quedaron en la biblioteca a seguir laburando. Ximena y Alba fueron invitadas a seguir laburando con todas las mediciones que habiamos tomado dias anteriores tambien en la biblioteca central. Los 4 trabajamos desde ahi ese dia. Este dia no fuimos al campo. 
+
+El dia arranco cuando le mostre la figura que hicimos en clases anteriores a Tomás Navarro Febre y vimos en el software Cura KutterCraft cuanto tiempo nos iba a llevar imprimir la pieza que llevabamos diseñando en la impresora 3D del GFSG. Encontramos que el tiempo que llevaba imprimir la pieza excedia por mucho el tiempo que un alumno podia permanecer dentro del campo de enseñanza hasta que se vaya el ultimo colectivo del dia (la pieza tardaba alrededor de 1dia y 18horas) y la impresora no puede quedar funcionando sin que nadie este supervisandola. 
+
+Asi arrancamos con Tomás Navarro Febre otra pieza que se pueda imprimir y que cumpla con todos los requisitos previamente descriptos en dias anteriores (momento de inercia variable, simetria en los ejes x e y, que los discos duros no roten cuando la pieza rote, etcetc). 
+
+Despues de revisar las dimensiones de la pieza nos dimos cuenta que la figura se habia guardado con otras dimensiones. Por eso tardaba tanto en imprimirse. Se decidio volver a empezar de cero. Sin embargo esta vez con el conocimiento de como iba a ser la figura, ya con las mediciones pertinentes y con el modelo decidido. 
+
+Se adjuntan imagenes de lo que fue este dia.
+
+
+
+Terminada la pieza principal dimos por finalizada la jornada. Estuvimos trabajando desde las 10am hasta las 5pm aproximadamente. En ese momento Francisco Manuel Diaz Torres asumia con consejero superior por eso nos quedamos trabajando en la biblioteca central.
+
+### Objetivos Cumplidos 🏆
+
+- [x] Terminar de diseñar, la pieza C, la pieza principal.
+
+### Objetivos para el Próximo Día 🎯
+
+- [ ] Seguir diseñando las demas piezas de nuestra figura.
+
+### Resultados 📊
+
+Una jornada exitosa en la que pudimos diseñar de manera completa la pieza C. De manera coordinada y eficaz trabajamos a la par aportando nuevas ideas y peleandonos con el software Freecad.
+
+### Problemas y Desafíos 🚧
+
+Entendimos la importancia de guardar correctamente los archivos con fecha del dia que se editaron. Tambien vimos que hay que asegurarse de que los archivos hayan sido guardados correctamente abriendolos otra vez para asegurarse que el archivo es correcto y no trabajar al pedo.
+
+### Conclusiones 🧾
+
+Una jornada laboriosa en la que nos dedicamos a diseñar la pieza principal. 
+
+### Recursos 📚
+
+Cura Kuttercraft:
+
+https://www.kuttercraft.com/software
+
+### Notas Adicionales 🗒️
+
+Por primera vez dimos a entender a otra persona (fuera del grupo que esta avocado a esta tarea) que es lo que estamos haciendo y por qué estamos haciendo lo que estamos haciendo. En este caso fue a Tomás Navarro Febre.
+
+---
+
+**Firma del Investigador:** Delorenzi, Tomás  **Fecha de redacción:** 21/05/2024 🖋️
+
+---
+
+---
+## Fecha: Viernes, 10/05/2024
+
+### Información General
+
+- **Investigador que redacta:**  Tomás Delorenzi👨‍🔬
+- **Materia:** Laboratorio I 🧪
+- **Equipos Utilizados:**  🧲
+
+### Resumen del Día 📝
+
+
+
+### Modificaciones y Avances Realizados 🛠️
+
+
+
+### Objetivos Cumplidos 🏆
+- [x]
+
+
+### Objetivos para el Próximo Día 🎯
+
+- [ ] 
+
+### Resultados 📊
+
+
+
+### Problemas y Desafíos 🚧
+
+
+
+### Conclusiones 🧾
+
+
+
+### Tareas Pendientes 📌
+
+
+
+### Recursos 📚
+
+
+
+### Notas Adicionales 🗒️
+
+
+
+
+---
+
+**Firma del Investigador:** Delorenzi, Tomás  **Fecha de redacción:** 21/05/2024 🖋️
+
+---
+
+---
+## Fecha: Viernes, 10/05/2024
+
+### Información General
+
+- **Investigador que redacta:**  Tomás Delorenzi👨‍🔬
+- **Materia:** Laboratorio I 🧪
+- **Equipos Utilizados:**  🧲
+
+### Resumen del Día 📝
+
+
+
+### Modificaciones y Avances Realizados 🛠️
+
+
+
+### Objetivos Cumplidos 🏆
+- [x]
+
+
+### Objetivos para el Próximo Día 🎯
+
+- [ ] 
+
+### Resultados 📊
+
+
+
+### Problemas y Desafíos 🚧
+
+
+
+### Conclusiones 🧾
+
+
+
+### Tareas Pendientes 📌
+
+
+
+### Recursos 📚
+
+
+
+### Notas Adicionales 🗒️
+
+
+
+
+---
+
+**Firma del Investigador:** Delorenzi, Tomás  **Fecha de redacción:** 21/05/2024 🖋️
+
+---
+
+---
+## Fecha: Viernes, 10/05/2024
+
+### Información General
+
+- **Investigador que redacta:**  Tomás Delorenzi👨‍🔬
+- **Materia:** Laboratorio I 🧪
+- **Equipos Utilizados:**  🧲
+
+### Resumen del Día 📝
+
+
+
+### Modificaciones y Avances Realizados 🛠️
+
+
+
+### Objetivos Cumplidos 🏆
+- [x]
+
+
+### Objetivos para el Próximo Día 🎯
+
+- [ ] 
+
+### Resultados 📊
+
+
+
+### Problemas y Desafíos 🚧
+
+
+
+### Conclusiones 🧾
+
+
+
+### Tareas Pendientes 📌
+
+
+
+### Recursos 📚
+
+
+
+### Notas Adicionales 🗒️
+
+
+
+
+---
+
+**Firma del Investigador:** Delorenzi, Tomás  **Fecha de redacción:** 21/05/2024 🖋️
+
+---
