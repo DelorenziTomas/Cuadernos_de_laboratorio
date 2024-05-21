@@ -184,6 +184,10 @@ Tambien me aconsejo ir jugando con las dimensiones de las cajas para que con el 
 
 Me recomendo Griselda que primero haga la minimizacion, la estabilizacion y luego con "gmx genion" agregue la cantidad de iones alcalinoterreos (Ca o Mg) necesarios.
 
+Acomode las carpetas para cada concentracion que vamos a trabajar. Tambien fui creando cajas de distintos tamaños pero con la cantidad de aguas justas.
+
+Griselda me aconsejo crear mi propio modelo de aguas, Water Tomas, jugando con el Avogadro. Avogadro es un programa que permite al usuario crear moleculas agregando y sacando esferas. Tambien me recomendo que compare con el archivo.itp del agua spc-e de gromacs con mi Water Tomas. Que saque las cargas parciales con Mulliken de mis 3 atomos de mi molecula de agua, Water Tomas, y que agregue a una caja dada con el "gmx solvate" varias moleculas de aguas spc-e pero ahora que sean si de gromacs para ver como cambia. Se podria estudiar de mis dos moleculas de agua el coeficiente de difusion para ver como se va movimiendo en el solvente.
+
 ### Objetivos Cumplidos 🏆
 
 - [x] Poder crear las distintas cajas para las distintas concentraciones deseadas.
