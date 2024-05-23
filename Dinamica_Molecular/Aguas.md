@@ -559,6 +559,69 @@ The Amber99 force field and the spce water model are used.
 
 GROMACS reminds you: "Since the mathematicians have invaded the theory of relativity I do not understand it myself any more." (Albert Einstein)
 
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+tomasdelorenzi@MSI:/mnt/c/simu/Dinamica_Molecular/IonesAlcalinoterreos/Water_Tomas
+$ gmx solvate -cp water_tomas2.gro -cs spc216.gro -o water_tomas_solvatada.gro -p topol.top
+                      :-) GROMACS - gmx solvate, 2023 (-:
+
+Executable:   /usr/local/gromacs/bin/gmx
+Data prefix:  /usr/local/gromacs
+Working dir:  /mnt/c/simu/Dinamica_Molecular/IonesAlcalinoterreos/Water_Tomas
+Command line:
+  gmx solvate -cp water_tomas2.gro -cs spc216.gro -o water_tomas_solvatada.gro -p topol.top
+
+Reading solute configuration
+Reading solvent configuration
+
+Initialising inter-atomic distances...
+
+WARNING: Masses and atomic (Van der Waals) radii will be guessed
+         based on residue and atom names, since they could not be
+         definitively assigned from the information in your input
+         files. These guessed numbers might deviate from the mass
+         and radius of the atom type. Please check the output
+         files if necessary. Note, that this functionality may
+         be removed in a future GROMACS version. Please, consider
+         using another file format for your input.
+
+NOTE: From version 5.0 gmx solvate uses the Van der Waals radii
+from the source below. This means the results may be different
+compared to previous GROMACS versions.
+
+++++ PLEASE READ AND CITE THE FOLLOWING REFERENCE ++++
+A. Bondi
+van der Waals Volumes and Radii
+J. Phys. Chem. 68 (1964) pp. 441-451
+-------- -------- --- Thank You --- -------- --------
+
+Generating solvent configuration
+Will generate new solvent configuration of 3x3x3 boxes
+Solvent box contains 7998 atoms in 2666 residues
+Removed 1503 solvent atoms due to solvent-solvent overlap
+Removed 6 solvent atoms due to solute-solvent overlap
+Sorting configuration
+Found 1 molecule type:
+    SOL (   3 atoms):  2163 residues
+Generated solvent containing 6489 atoms in 2163 residues
+Writing generated configuration to water_tomas_solvatada.gro
+
+Back Off! I just backed up water_tomas_solvatada.gro to ./#water_tomas_solvatada.gro.1#
+
+Output configuration contains 6492 atoms in 2164 residues
+Volume                 :          64 (nm^3)
+Density                :     1011.51 (g/l)
+Number of solvent molecules:   2163
+
+Processing topology
+Adding line for 2163 solvent molecules with resname (SOL) to topology file (topol.top)
+
+Back Off! I just backed up topol.top to ./#topol.top.1#
+
+GROMACS reminds you: "UNIX is basically a simple operating system. It just takes a genius to understand its simplicity." (Dennis Ritchie)
+
+
 ### Objetivos Cumplidos 🏆
 
 - [x] Crear mi 'water_tomar.gro'.
