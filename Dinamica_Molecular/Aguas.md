@@ -159,7 +159,7 @@ Nada que agregar.
 ---
 
 ### Información General
-- **Fecha:** Sabado, 18/05/2024 📆
+- **Fecha:** Martes, 21/05/2024 📆
 - **Investigador:** Tomás Delorenzi 👨‍🔬
 - **Molécula:** Agua SPC/E 🧪
 - **Objetivo del Día:** Volver a tomar contacto con GROMACS. 🎯
@@ -219,3 +219,56 @@ Nada que agregar.
 ---
 **Firma del Investigador:** Delorenzi, Tomás   **Redacción:** [21/05/2024] 🖋️
 ---
+
+---
+## Miercoles, 22/05/2024 📆
+---
+
+### Información General
+- **Fecha:** Miercoles, 22/05/2024 📆
+- **Investigador:** Tomás Delorenzi 👨‍🔬
+- **Molécula:** Agua SPC/E 🧪
+- **Objetivo del Día:** Empezar a hacer uso de Avogadro y armar mi modelo itp de la molecula de agua SPC/E. 🎯
+
+### Resumen del Día 📝
+
+Volvi a tomar contacto con el programa Avogadro. Cree mi archivo.itp de una molecula de agua.
+
+### Modificaciones y Avances Realizados 🛠️
+
+Empece mi dia hablando con Francisco Manuel Diaz Torres sobre como iban a hacer nuestras primeras concentracion y cuales iban a ser nuestros primeros numeros de aguas en las cajas. Empezaremos con simulaciones de 10ns e iremos aumentando el tiempo de la corrida en la medida de que el analisis exploratorio de los datos asi lo requieran. Griselda comento que con tener 10 o 11 iones ibamos a estar bien. Asi que habria que sacar la cuenta de cuantas aguas necesitaremos para cada concentracion.
+
+Luego Griselda me recomendo que cree una molecula de agua en el Avogadro. Consulte el siguiente video https://www.youtube.com/watch?v=DgzRri0uH7E para acordarme de como usar Avogadro. Este programa me permitio sacar paramatros valiosos para luego armar mi archivo.itp de mi primera molecula de agua (C:\simu\Dinamica_Molecular\IonesAlcalinoterreos\Water_Tomas\water_tomas.itp). Tambien me permitio generar una archivo.pdb (C:\simu\Dinamica_Molecular\IonesAlcalinoterreos\Water_Tomas\water_tomas.pdb) que con GROMACS luego lo puedo cambiar a un archivo.gro y tendre asi mi caja de simulacion.
+
+En el armado de mi molecula de agua fui consultando "C:\simu\Dinamica_Molecular\IonesAlcalinoterreos\ffbondedAM99.itp" y "C:\simu\Dinamica_Molecular\IonesAlcalinoterreos\Data\atomtypesAM99.atp" para consultar los enlaces y el tipo de atomo de mi moleculas en el campo de fuerzas AMBER99. Los valores que no aparecian los consultaba en los parametros que me arrojaba el programa Avogadro. Este programa posee una opcion de optimizacion GAFF que, segun Griselda, era el mismo que AMBER. 
+
+### Objetivos Cumplidos 🏆
+
+- [x] Ponerme de nuevo de acuerdo con Griselda y Francisco con el desarrollo del estudio.
+- [x] Aprender a usar Avogadro.
+- [x] Crear mi archivo water_tomas.itp . 
+
+### Resultados 📊
+
+Una jornada exitosa.
+
+### Problemas y Desafíos 🚧
+
+Ninguno, todavia.
+
+### Tareas Pendientes 📌
+
+- [ ] Hacer las corridas para una caja en las que esten mis dos moleculas de agua.
+- [ ] Crear un programita que calcule la cantidad exactas de aguas que tenemos que poner para una concentracion dada.
+
+### Recursos 📚
+
+Ninguno
+
+### Notas Adicionales 🗒️
+Nada que agregar.
+
+---
+**Firma del Investigador:** Delorenzi, Tomás   **Redacción:** [23/05/2024] 🖋️
+---
+
