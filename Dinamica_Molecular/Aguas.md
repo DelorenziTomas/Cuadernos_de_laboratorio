@@ -650,4 +650,48 @@ Nada que agregar.
 **Firma del Investigador:** Delorenzi, Tomás   **Redacción:** [23/05/2024] 🖋️
 ---
 
+---
+## Viernes, 24/05/2024 📆
+---
+
+### Información General
+- **Fecha:** Viernes, 24/05/2024 📆
+- **Investigador:** Tomás Delorenzi 👨‍🔬
+- **Molécula:** Agua SPC/E 🧪
+- **Objetivo del Día:** Comunicacion con la directora. 🎯
+
+### Resumen del Día 📝
+
+Se le comento a Griselda Monica Corral mis avances del dia anterior. Comentandole que he podido pasar mis archivo de formato pdb a formato gro y poder hacer mi primera caja.
+
+### Modificaciones y Avances Realizados 🛠️
+
+Griselda me comento que como es que yo se la forma que tiene mi caja que crea la herramienta pdb2gmx. Asi ella me comento la herramienta de gromacs GENBOX. Estuve googleandola y no he encontrado nada.
+
+### Objetivos Cumplidos 🏆
+
+- [x] Comentarles mis avances a mi directora.
+
+### Resultados 📊
+
+Poner a prueba mis conocimientos sobre las herramientas que voy utilizando para ir avanzando.
+
+### Problemas y Desafíos 🚧
+
+No se ha encontrado la herramienta sugerida por mi directora.
+
+### Tareas Pendientes 📌
+
+- [ ] Corroborar con la herramienta Protein Viewer de Visual Studio Code si la caja es cuadrada
+
+### Recursos 📚
+
+Ninguno
+
+### Notas Adicionales 🗒️
+Nada que agregar.
+
+---
+**Firma del Investigador:** Delorenzi, Tomás   **Redacción:** [27/05/2024] 🖋️
+---
 
