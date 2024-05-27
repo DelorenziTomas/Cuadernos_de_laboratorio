@@ -695,3 +695,52 @@ Nada que agregar.
 **Firma del Investigador:** Delorenzi, Tomás   **Redacción:** [27/05/2024] 🖋️
 ---
 
+---
+## Lunes, 27/05/2024 📆
+---
+
+### Información General
+- **Fecha:** Lunes, 27/05/2024 📆
+- **Investigador:** Tomás Delorenzi 👨‍🔬
+- **Molécula:** Agua SPC/E 🧪
+- **Objetivo del Día:** Corrobar que todavia sigue andando mis extensiones para visualizar mi "archivo.gro". 🎯
+
+### Resumen del Día 📝
+
+Pude visualizar mi caja de simulacion y vi como se estructura las aguas dentro de la caja.
+
+### Modificaciones y Avances Realizados 🛠️
+
+Pude ver que la caja de simulacion es cuadrada. Con la extension Protein Viewer.
+
+![WATER_TOMAS](https://github.com/DelorenziTomas/Cuadernos_de_laboratorio/assets/134660680/59e4310a-de95-44ca-8a7d-c26152e6692d)
+
+
+### Objetivos Cumplidos 🏆
+
+- [x] Volver a tomar contacto con la extension Protein Viewer.
+- [x] Corroborar que estoy trabajando que mi caja es cuadrada.
+
+### Resultados 📊
+
+Positivos.
+
+### Problemas y Desafíos 🚧
+
+Ninguno.
+
+### Tareas Pendientes 📌
+
+- [ ] Terminar de hacer la corrida de 10ns por dinamica molecular.
+
+### Recursos 📚
+
+Ninguno
+
+### Notas Adicionales 🗒️
+Nada que agregar.
+
+---
+**Firma del Investigador:** Delorenzi, Tomás   **Redacción:** [27/05/2024] 🖋️
+---
+
