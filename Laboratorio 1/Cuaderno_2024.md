@@ -577,103 +577,106 @@ Por primera vez dimos a entender a otra persona (fuera del grupo que esta avocad
 
 ### Resumen del Día 📝
 
-
+No se hizo nada.
 
 ### Modificaciones y Avances Realizados 🛠️
 
+Asumimos como Consejeros Directivos. Ese dia no se hizo nada.
+![WhatsApp Image 2024-05-21 at 11 12 59](https://github.com/DelorenziTomas/Cuadernos_de_laboratorio/assets/134660680/f4105689-3b71-4524-beab-f52172e0e1c4)
 
 
 ### Objetivos Cumplidos 🏆
-- [x]
 
-
-### Objetivos para el Próximo Día 🎯
-
-- [ ] 
+- [x] Nada
 
 ### Resultados 📊
 
-
+Ninguno, fuimos consejeres.
 
 ### Problemas y Desafíos 🚧
 
-
+Ninguno.
 
 ### Conclusiones 🧾
 
-
+Ninguno.
 
 ### Tareas Pendientes 📌
 
-
+Ninguno.
 
 ### Recursos 📚
 
-
+Ninguno.
 
 ### Notas Adicionales 🗒️
 
-
-
-
----
-
-**Firma del Investigador:** Delorenzi, Tomás  **Fecha de redacción:** 21/05/2024 🖋️
+Ninguno.
 
 ---
 
+**Firma del Investigador:** Delorenzi, Tomás  **Fecha de redacción:** 29/05/2024 🖋️
+
 ---
-## Fecha: Viernes, 10/05/2024
+
+---
+## Fecha: Jueves, 16/05/2024
 
 ### Información General
 
 - **Investigador que redacta:**  Tomás Delorenzi👨‍🔬
 - **Materia:** Laboratorio I 🧪
-- **Equipos Utilizados:**  🧲
+- **Equipos Utilizados:**  Impresora 3D 🧲
 
 ### Resumen del Día 📝
 
-
+Mandamos a imprimir la primera pieza.
 
 ### Modificaciones y Avances Realizados 🛠️
 
+Terminamos de diseñar las piezas y mandamos a imprimir la primera pieza, la pieza G, el agujero por donde pasa el tornillo nos quedo chico por lo tanto no pudimos hacer pasar el tornillo por este.
 
+No solamente paso eso sino que tambien nos quedo chicas los lados del poligono de la cabeza del tornillo cuando aumentamos los lados 0.2mm nos olvidamos de aumentar el radio del agujero por donde pasa el tornillo. Tomas lo agarro con el taladro de pie en dias posteriores.
+
+Tambien vimos cual era la dureza de las piezas impresas en 3D agarrandolas con el taladro de pie cerca del borde externo con distintas mechas del taladro de pie. 
+
+Kevin nos comento que el taladro de pie tiene distintas velocidades y que disminuir las rpm ayuda a que el plastico PLA no se derrita. Cambiar la configuracion de correas ayuda a cambiar las rpm del taladro.
+
+En la seccion recursos se adjuntan las imagenes de lo que fue el dia.
 
 ### Objetivos Cumplidos 🏆
-- [x]
 
+- [x] Terminar de diseñar las piezas.
+- [x]  Mandar a imprimir la pieza.
 
 ### Objetivos para el Próximo Día 🎯
 
-- [ ] 
+- [ ] Agrandar el agujero
 
 ### Resultados 📊
 
-
+Una jornada casi exitosa.
 
 ### Problemas y Desafíos 🚧
 
-
+Imprimimos 2 veces mal la pieza G. Aun asi la pudimos recuperar.
 
 ### Conclusiones 🧾
 
-
-
-### Tareas Pendientes 📌
-
-
+Nos dimos cuenta de cuanto tarda en imprimir la impresora 3D las piezas, y verifcamos la dureza del plastico
 
 ### Recursos 📚
 
-
-
-### Notas Adicionales 🗒️
-
-
+![WhatsApp Image 2024-05-21 at 11 15 36](https://github.com/DelorenziTomas/Cuadernos_de_laboratorio/assets/134660680/c0f17e7a-a43e-422c-ae6a-2a4efba3f100)
+![WhatsApp Image 2024-05-21 at 11 15 35 (1)](https://github.com/DelorenziTomas/Cuadernos_de_laboratorio/assets/134660680/d441fe48-553c-495a-8402-2d99af303b4e)
+![WhatsApp Image 2024-05-21 at 11 15 35 (2)](https://github.com/DelorenziTomas/Cuadernos_de_laboratorio/assets/134660680/bbafb518-d1d8-4e64-a222-0c83c547f655)
+![WhatsApp Image 2024-05-21 at 11 15 36 (1)](https://github.com/DelorenziTomas/Cuadernos_de_laboratorio/assets/134660680/a26d9c53-9c7c-439d-9c37-a797c5ed7c3e)
+![WhatsApp Image 2024-05-21 at 11 15 35](https://github.com/DelorenziTomas/Cuadernos_de_laboratorio/assets/134660680/0f51eded-defc-4cfa-8e42-f48deaa265ac)
+![WhatsApp Image 2024-05-20 at 22 04 34](https://github.com/DelorenziTomas/Cuadernos_de_laboratorio/assets/134660680/e467d3a0-6ffb-4b37-920e-bad188de7961)
 
 
 ---
 
-**Firma del Investigador:** Delorenzi, Tomás  **Fecha de redacción:** 21/05/2024 🖋️
+**Firma del Investigador:** Delorenzi, Tomás  **Fecha de redacción:** 29/05/2024 🖋️
 
 ---
