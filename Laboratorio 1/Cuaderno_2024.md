@@ -521,62 +521,6 @@ Por primera vez dimos a entender a otra persona (fuera del grupo que esta avocad
 
 ### Resumen del Día 📝
 
-
-
-### Modificaciones y Avances Realizados 🛠️
-
-
-
-### Objetivos Cumplidos 🏆
-- [x]
-
-
-### Objetivos para el Próximo Día 🎯
-
-- [ ] 
-
-### Resultados 📊
-
-
-
-### Problemas y Desafíos 🚧
-
-
-
-### Conclusiones 🧾
-
-
-
-### Tareas Pendientes 📌
-
-
-
-### Recursos 📚
-
-
-
-### Notas Adicionales 🗒️
-
-
-
-
----
-
-**Firma del Investigador:** Delorenzi, Tomás  **Fecha de redacción:** 21/05/2024 🖋️
-
----
-
----
-## Fecha: Viernes, 10/05/2024
-
-### Información General
-
-- **Investigador que redacta:**  Tomás Delorenzi👨‍🔬
-- **Materia:** Laboratorio I 🧪
-- **Equipos Utilizados:**  🧲
-
-### Resumen del Día 📝
-
 No se hizo nada.
 
 ### Modificaciones y Avances Realizados 🛠️
@@ -618,6 +562,51 @@ Ninguno.
 **Firma del Investigador:** Delorenzi, Tomás  **Fecha de redacción:** 29/05/2024 🖋️
 
 ---
+
+
+---
+## Fecha: Miercoles, 15/05/2024
+
+### Información General
+
+- **Investigador que redacta:**  Tomás Delorenzi👨‍🔬
+- **Materia:** Laboratorio I 🧪
+- **Equipos Utilizados:**  🧲
+
+### Resumen del Día 📝
+
+Este dia fue feriado por dia del docente universitario y nos juntamos en la casa de Alba a terminar de diseñar la pieza G y dejamos a medias tintas la pieza C
+El apuro de tener las piezas ya diseñadas era para mandar a imprimir lo mas pronto posible,
+
+### Objetivos Cumplidos 🏆
+
+- [x] Diseñar la pieza G
+- [x] Dejar la pieza C media completa
+
+### Objetivos para el Próximo Día 🎯
+
+- [ ] Terminar la pieza C
+
+### Resultados 📊
+
+Una jornada exitosa de laburo en el freecad.
+
+### Problemas y Desafíos 🚧
+
+No sabiamos que freecad contaba con angulos de euler para girar piezas
+
+
+### Recursos 📚
+
+![WhatsApp Image 2024-05-21 at 11 37 24](https://github.com/DelorenziTomas/Cuadernos_de_laboratorio/assets/134660680/c347bd0e-49c1-47e4-8e01-6f7427c0d2a7)
+
+
+---
+
+**Firma del Investigador:** Delorenzi, Tomás  **Fecha de redacción:** 29/05/2024 🖋️
+
+---
+
 
 ---
 ## Fecha: Jueves, 16/05/2024
