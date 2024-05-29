@@ -669,3 +669,59 @@ Nos dimos cuenta de cuanto tarda en imprimir la impresora 3D las piezas, y verif
 **Firma del Investigador:** Delorenzi, Tomás  **Fecha de redacción:** 29/05/2024 🖋️
 
 ---
+
+
+
+
+
+---
+## Fecha: Viernes, 17/05/2024
+
+### Información General
+
+- **Investigador que redacta:**  Tomás Delorenzi👨‍🔬
+- **Materia:** Laboratorio I 🧪
+- **Equipos Utilizados:**  Impresora 3D 🧲
+
+### Resumen del Día 📝
+
+Terminamos de diseñar las piezas que nos quedaron incompletas del dia anterior. Y seguimos imprimiendo las piezas que nos faltaban.
+
+### Modificaciones y Avances Realizados 🛠️
+
+Imprimimos exitosamente la pieza B, y tambien los palitos que se insertan en la pieza B para verificar que el agujero estaba bien y que restar 0.2mm deja espacio suficiente a la pieza para que encastre 
+
+### Objetivos Cumplidos 🏆
+
+- [x] Terminar de diseñar las piezas.
+- [x]  Mandar a imprimir la pieza B
+
+### Objetivos para el Próximo Día 🎯
+
+- [ ] Agujeriar la pieza G. Asi nos ahorramos tiempo y podemos recuperar esas piezas ya impresas.
+
+### Resultados 📊
+
+Una jornada exitosa. 
+
+### Problemas y Desafíos 🚧
+
+Griselda nos aconsejo que consideremos sacar teoricamente el centro de masa de la pieza. Encontramos que en freecad podemos sacarlo el problema es que no sabemos donde esta el origen y desde donde esta calculandolo.
+
+### Recursos 📚
+
+https://github.com/DelorenziTomas/Cuadernos_de_laboratorio/assets/134660680/5dd5786e-75e7-4ee2-aa7d-ebb558e4cc13
+
+![WhatsApp Image 2024-05-21 at 11 18 40](https://github.com/DelorenziTomas/Cuadernos_de_laboratorio/assets/134660680/221dd716-63b9-48aa-980d-06eaca1bee02)
+
+https://github.com/DelorenziTomas/Cuadernos_de_laboratorio/assets/134660680/a0791cee-0197-41cd-9b64-a90df00bedf4
+
+![WhatsApp Image 2024-05-21 at 11 18 48](https://github.com/DelorenziTomas/Cuadernos_de_laboratorio/assets/134660680/1382dd22-4fe2-4b70-969b-4edd5d9f69ea)
+![WhatsApp Image 2024-05-21 at 11 18 48 (1)](https://github.com/DelorenziTomas/Cuadernos_de_laboratorio/assets/134660680/b98b1b61-cbfb-45bb-b92f-d7124551d2c9)
+
+
+---
+
+**Firma del Investigador:** Delorenzi, Tomás  **Fecha de redacción:** 29/05/2024 🖋️
+
+---
