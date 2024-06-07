@@ -481,16 +481,7 @@ Number of solvent molecules:   3084
 WT                  1
 SOL              3084
 
-La densidad del agua es aproximadamente 1 g/cm³. Para convertir esta densidad a g/L, debemos considerar las unidades de volumen.
-
-Sabemos que:
-1 cm³ = 1 mL (mililitro)
-1000 mL = 1 L (litro)
-
-Por lo tanto, la densidad del agua en g/L se puede calcular como:
-\[ 1 \, \text{g/cm}^3 \times 1000 \, \text{cm}^3/\text{L} = 1000 \, \text{g/L} \]
-
-Así que la densidad del agua es aproximadamente 1000 g/L.
+![image](https://github.com/DelorenziTomas/Cuadernos_de_laboratorio/assets/134660680/a467c3d4-669f-41ce-a08b-a53334f76ff8)
 
 
 ** Comandos **
