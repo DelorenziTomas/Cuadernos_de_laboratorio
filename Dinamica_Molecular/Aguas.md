@@ -467,7 +467,37 @@ Nada que agregar.
 
 ### Modificaciones y Avances Realizados 🛠️
 
+Historial de la preparacion de mi caja de simulacion con 1 Molar de Calcio
 
+Lo que hice fue con el comando que me enseño Griselda el dia Lunes 27/05/24, crear una caja cubica de 4.55nm de aristas. Tambien se le cambio las unidades de angstrom a nm al pdb que genera Avogadro. Crear esa caja y cambiar la topologia (C:\simu\Dinamica_Molecular\IonesAlcalinoterreos\Calcio\1_1-0_Molar\1_Preparacion) para tener una molecula de agua SPC/E fue diseñada por mi en dias anteriores. Entonces con los siguientes comandos obtengo una caja con las siguientes caracteristicas
+
+Output configuration contains 9255 atoms in 3085 residues
+Volume                 :     94.1964 (nm^3)
+Density                :     979.747 (g/l)
+Number of solvent molecules:   3084
+
+[ molecules ]
+; Compound        #mols
+WT                  1
+SOL              3084
+
+La densidad del agua es aproximadamente 1 g/cm³. Para convertir esta densidad a g/L, debemos considerar las unidades de volumen.
+
+Sabemos que:
+1 cm³ = 1 mL (mililitro)
+1000 mL = 1 L (litro)
+
+Por lo tanto, la densidad del agua en g/L se puede calcular como:
+\[ 1 \, \text{g/cm}^3 \times 1000 \, \text{cm}^3/\text{L} = 1000 \, \text{g/L} \]
+
+Así que la densidad del agua es aproximadamente 1000 g/L.
+
+
+** Comandos **
+
+gmx editconf -f water_tomas.pdb -box 4.55 4.55 4.55 -bt cubic -d 0 -o 1-M_aguas.gro
+
+gmx solvate -cp 1-M_aguas.gro -cs spc216.gro -o 1-M_caja_con_aguas.gro -p water.top
 
 ### Objetivos Cumplidos 🏆
 
