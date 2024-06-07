@@ -417,6 +417,12 @@ Pude ver que la caja de simulacion es cuadrada. Con la extension Protein Viewer.
 
 Con la herramienta [editconf](https://manual.gromacs.org/current/onlinehelp/gmx-editconf.html) encontramos que uno puede hacerle distintas operaciones a la caja de simulacion. Como cambiar su geometria, centrar, darle las mediciones a la caja, etc.
 
+Usando el archivo: water_tomas.pdb
+
+gmx editconf -f water_tomas.pdb -box 4 4 4 -bt cubic -d 0 -o water_box4-5.gro
+
+Se genera una caja cubita de aristas 4 nm y se centra la molecula de agua en el centro de la caja.
+
 ### Objetivos Cumplidos 🏆
 
 - [x] Volver a tomar contacto con la extension Protein Viewer.
@@ -445,3 +451,47 @@ Nada que agregar.
 **Firma del Investigador:** Delorenzi, Tomás   **Redacción:** [27/05/2024] 🖋️
 ---
 
+---
+## Viernes, 07/06/2024 📆
+---
+
+### Información General
+- **Fecha:** Viernes, 07/06/2024 📆
+- **Investigador:** Tomás Delorenzi 👨‍🔬
+- **Molécula:** Agua SPC/E 🧪
+- **Objetivo del Día:** Realizar mi primera corrida de dinamica molecular 🎯
+
+### Resumen del Día 📝
+
+
+
+### Modificaciones y Avances Realizados 🛠️
+
+
+
+### Objetivos Cumplidos 🏆
+
+- [x] 
+
+### Resultados 📊
+
+
+
+### Problemas y Desafíos 🚧
+
+
+
+### Tareas Pendientes 📌
+
+- [ ] 
+
+### Recursos 📚
+
+
+
+### Notas Adicionales 🗒️
+
+
+---
+**Firma del Investigador:** Delorenzi, Tomás   **Redacción:** [07/06/2024] 🖋️
+---
